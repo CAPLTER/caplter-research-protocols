@@ -87,7 +87,7 @@ ODK form: s200_GPI
 
 ODK forms: s200_trees_plot, s200_shrub_survey, s200_shrub_count, s200_hedges_survey, s200_annuals
 
-### ***Trees and saguaros***      
+### ***Trees and saguaros:***      
 
 ODK form: s200_trees_plot
 
@@ -132,7 +132,7 @@ ODK form: s200_trees_plot
 ### **Shrubs, perennial groundcover, and cacti other than saguaros:**      
 ODK forms: s200_shrub_survey, s200_shrub_count, s200_hedges_survey   
 
-__*Shrub count*__   
+__*Shrub count:*__   
 ODK forms: s200_shrub_count
 
 *ALL shrubs and cacti in the plot are counted by species, segregated by quadrant (to aid counting). Note that this does not include saguaros, which are treated like trees.*
@@ -152,7 +152,7 @@ ODK forms: s200_shrub_count
 * Quantify the number of this type of shrub in each quadrant of the plot. Not that the quadrant distinction is not overly important and is primarily added to aid counting in plots with high densities of shrubs, so focus on getting an accurate estimate of the number of shrubs and less about their exact location.
 
 
-__*Shrub survey*__   
+__*Shrub survey:*__   
 ODK forms: s200_shrub_survey   
 
 The details of at least 5 representative individuals of each shrub and cacti species (at least 1 from each quadrant when possible) are recorded in the s200_shrub_survey form. As with the shrub count, this does not include saguaros, which are addressed with the trees.
@@ -182,7 +182,7 @@ The details of at least 5 representative individuals of each shrub and cacti spe
 * Add another 'Survey data for taxon' group for additional taxa.
 
 
-__*Hedges (urban plots only*__   
+__*Hedges (urban plots only):*__   
 ODK forms: s200_hedges_survey   
 
 A hedge versus a shrub is an arbitrary distinction to be made by the crew on site. Typically, we consider a shrub or shrub(s) a hedge if it or, most often, they are positioned and manicured to create a distinct border, and if the growth of the plants is dense.

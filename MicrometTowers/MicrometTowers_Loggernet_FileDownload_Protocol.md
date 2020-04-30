@@ -20,10 +20,10 @@
 6. If you forget to rename file, it will NOT be written over!
 7. Save on data stick or email from laptop via internet connection
 
-**Notes:
+**Notes:**
 
 Connect cable to RS232 port on CR1000
 
 Connect the other cable end to the left serial port on laptop that is closest to you. The other one on the left and the one on the right **do not work!**
 
-**To change point at which data collection starts: in connect screen window, click on 'Custom', then change collection mode to 'Data Since Last Collection'. Check which table will be collected (Tenmin).
+**To change point at which data collection starts: in connect screen window, click on 'Custom', then change collection mode to 'Data Since Last Collection'. Check which table will be collected (Tenmin).**

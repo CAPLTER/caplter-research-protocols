@@ -75,7 +75,7 @@ The primary observer may be accompanied to the point by an additional observer w
 
 * Write the number of individuals observed in the appropriate distance columns.
 
-* Do not count young in nest as individuals. If the nest is linked to an adult individual in the count, you can enter the young in nest in the notes for that line.
+* Do not count the young in a nest as individuals. If the nest is linked to an adult individual in the count, you can record the young in nest in the notes for that line.  Likewise, do not count the dependent young of precocial species (e.g. ducks and quail).  Only count adults and independent juveniles. Dependent young can be recorded in the notes.
 
 * If a bird moves during the count, record only the distance at which it was first observed.
 

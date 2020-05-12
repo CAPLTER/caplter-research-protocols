@@ -75,16 +75,39 @@ Combine the two for _**bold italic**_.
 + Back to the list.
 
 
-### Links
+### Links (and Line Breaks)
+
+Use the following syntax to insert links.
 
 ```
-[Inline-style link](https://www.google.com)
-[Inline-style link w/ title](https://www.google.com "Google")
-Link itself: https://www.google.com
+[Link 1: Inline-style link](https://www.google.com)   <- three trailing spaces
+[Link 2: Inline-style link w/ title](https://www.google.com "Google")
+
+Link 3, the URL itself: https://www.google.com
 ```
-[Inline-style link](https://www.google.com)
-[Inline-style link w/ title](https://www.google.com "Google")
-Link itself: https://www.google.com
+[Link 1: Inline-style link](https://www.google.com)   
+[Link 2: Inline-style link w/ title](https://www.google.com "Google")
+
+Link 3, the URL itself: https://www.google.com
+
+
+Note that the first two links are grouped together in the same paragraph, while the third link begins a separate paragraph. This is due to the number of newlines between each link.  Between Link 1 and Link 2, there is only one newline, while between Link 2 and Link 3, there are 2 newlines. 
+
+If you want to separate two lines within the same paragraph (using only 1 newline), add three trailing spaces to the end of the first line. Otherwise, Github will not separate them.
+
+Example:
+```
+These lines have no trailing spaces.
+Github won't separate them.
+
+These lines have three trailing spaces.   <- three trailing spaces
+This will be written as a new line in the same paragraph.
+```
+These lines have no trailing spaces.
+Github won't separate them.
+
+These lines have three trailing spaces.   
+This will be written as a new line in the same paragraph.
 
 
 ### Images

@@ -12,18 +12,6 @@ Repository of CAP LTER field and lab protocols for long-term monitoring projects
 Use these tips to help you make edits to the Markdown files. For more Markdown tips, check out [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
-### Headers
-
-```
-# Use one pound sign for the title heading at the top of each protocol. (Header 1)
-## Use two pound signs for each main heading in the protocols. (Header 2)
-### Use three pound signs for subheadings. (Header 3)
-```
-# Header 1
-## Header 2
-### Header 3
-
-
 ### Bold/Italic
 
 ```
@@ -146,7 +134,7 @@ For superscript, surround the text with the <sup>html sup tag</sup>.
 H<sub>2</sub>O
 e=mc<sup>2</sup>
 ```
-H<sub>2</sub>O
+H<sub>2</sub>O   
 e=mc<sup>2</sup>
 
 
@@ -164,12 +152,24 @@ You can insert symbols in Github Markdown using character entities. To do this, 
 &le;
 &rarr;
 ```
-&plusmn;
-&Delta;
-&theta;
-&mu;
-&pi;
-&ge;
-&le;
-&rarr;
+&plusmn;   
+&Delta;   
+&theta;   
+&mu;   
+&pi;   
+&ge;   
+&le;   
+&rarr;   
+
+
+### Headers
+
+```
+# Use one pound sign for the title heading at the top of each protocol. (Header 1)
+## Use two pound signs for each main heading in the protocols. (Header 2)
+### Use three pound signs for subheadings. (Header 3)
+```
+# Header 1
+## Header 2
+### Header 3
 

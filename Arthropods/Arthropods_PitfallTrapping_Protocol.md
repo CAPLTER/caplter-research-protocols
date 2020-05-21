@@ -5,7 +5,7 @@ Updated March 2020
 
 ## **Trap Installation:**   
 
-Pitfall trap holes can be cored using a small soil corer or an auger, usually in turf, or dug out using a pick or a soil knife along with a sledge hammer and a small spade, in more difficult-to-excavate soil such a desert hardpan. Traps are lined with 4" PVC sewer pipe cut to a length of 5 inches, which will accept an 18oz plastic cup. The trap lining and the plastic cup should be flush with the ground.
+Pitfall trap holes can be cored using a small soil corer or an auger, usually in turf, or dug out using a pick or a soil knife along with a sledge hammer and a small spade, in more difficult-to-excavate soil such as desert hardpan. Traps are lined with 4" PVC sewer pipe cut to a length of 5 inches, which will accept an 18oz plastic cup. The trap lining and the plastic cup should be flush with the ground.
 
 There should be 10 traps at each site. If the number drops below this, please let the CAP LTER Site Manager know. Traps are usually ~5 meters apart on a straight line, except at residential sites. When not set, traps are covered with a 4" sewer pipe cap (lid). Lids are spray-painted green for traps located in lawns.
 
@@ -23,7 +23,7 @@ Do not set traps when it is raining, when heavy rain is expected, or when flood 
 
 Scorpions may be encountered at the desert sites - take caution when removing the trap lids, when removing the cup from the ground (they are sometimes found underneath the cup on the ground in the pipe), and when collecting the trap.
 
-**A minimum of 7 traps must be collected on Day 4**, otherwise that location should be resert or disregarded for that collection cycle.
+**A minimum of 7 traps must be collected on Day 4**, otherwise that location should be reset or disregarded for that collection cycle.
 
 
 ## **Field Equipment Checklist:**   
@@ -39,7 +39,7 @@ Scorpions may be encountered at the desert sites - take caution when removing th
 * Measuring tape
 * 4" sewer pipe
 * Lids for pipe
-* 18oz plastic cup
+* 18oz clear plastic cup
 
 ### _For trap setting:_
 
@@ -49,7 +49,7 @@ Scorpions may be encountered at the desert sites - take caution when removing th
 * Extra 18oz plastic cups
 * Extra 4" sewer pipes
 * Hand spade
-* For agricultural sites: auger, pickaxe, soil knife, sledge hammer, plastic cups
+* For agricultural sites: auger, pickaxe, soil knife, sledge hammer, clear plastic cups
 
 ### _For trap collecting:_
 
@@ -83,11 +83,11 @@ Print jar labels (with date field filled in) and field data sheets. Jar labels a
 
 ### **Day 4: Collecting**
 
-If lizards are found in the cup, release them and note their presence on the data sheet. Identify the lizard if possible (including lifestage and sex) or take a photo for documentation and email with location and date to the CAP Site Manager to be included in AZG&F report.
+Both live and dead lizards may be found in the pitfall traps. Release live lizards and note their presence on the data sheet; note dead lizards on the data sheet as well. Identify all lizards (including lifestage and sex for live lizards) or take a photo for documentation and email with location and date to the CAP LTER Site Manager to be included in AZG&F report.  If a dead lizard is found in good condition, put these into a specimen jar containing 70% ethanol solution.  The specimen should be labeled with the labels found under Dropbox(ASU)\research\Pitfalls\field_datasheets_maps_labels\Vertebrate_collection_labels.xlsx.  Put the label inside of the jar.  The specimens can be deposited at ASU Collections.
 
 If there is water in the cup (from rain or landscape watering), a piece of plankton netting is used to filter out the water. After filtering the water, always rinse the netting into the jar with a wash bottle to collect any insects that may have stuck to it (even if you can't see any insects).
 
-Pour the ethanol solution in the cup and swirl. Pour the contents of the cup into the jar and insert the appropriate jar label (labels can also be inserted while filling the jars).
+Pour the ethanol solution into the cup and swirl. Pour the contents of the cup into the jar and insert the appropriate jar label (labels can also be inserted while filling the jars).
 
 Replace the lid (green for grass, white otherwise), piling rocks on top of the lids in desert areas to help keep the lids on until the next collection cycle. At ag sites, remove the cups and bring back to the lab.
 

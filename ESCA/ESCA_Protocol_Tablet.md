@@ -254,7 +254,7 @@ __*Soil Cores - overview*__
 
 * At desert sites, rocky conditions may prevent sampling at preferred locations - suitable location near to the preferred spot should be located.
 
-* The preferred sampling locations at urban sites are rarely accessible, and, as at desert sites, a suitable location near to the preferred location should be identified (note this system breaks down considerably given the habitat of many urban sites (e.g., houses, driveways, etc); in those instances, collect samples whenever possible striving to capture best the diversity of soil conditions at the site). Further, it may not be possible to collect four 1" cores at urban sites due to extensive irrigation, limited access to the plot (e.g., access to only one of several yards), etc. In those situations, collect as many 1" cores as possible, again striving to cover the diversity o soil types and cover at the site. At some locations, it may not be possible to collect any 1" cores due to the aforementioned conditions.
+* The preferred sampling locations at urban sites are rarely accessible, and, as at desert sites, a suitable location near to the preferred location should be identified (note this system breaks down considerably given the habitat of many urban sites (e.g., houses, driveways, etc); in those instances, collect samples whenever possible striving to capture best the diversity of soil conditions at the site). Further, it may not be possible to collect four 1" cores at urban sites due to extensive irrigation, limited access to the plot (e.g., access to only one of several yards), etc. In those situations, collect as many 1" cores as possible, again striving to cover the diversity of soil types and cover at the site. At some locations, it may not be possible to collect any 1" cores due to the aforementioned conditions.
 
 * Record the location where cores were collected. Ideally, the location of each position should be recorded with the tablet. As a backup, the location can be described in the soil core location description boxes (see next step).
 
@@ -280,7 +280,7 @@ __*Soil Cores - detailed instruction*__
 
 __*Surface Soil - overview*__
 
-A total of four surface soil (2cm depth) samples are to be collected, one corresponding to each of the 1" soil core locations. Sweet aside gravel and loose vegetation before collecting sample, but do not collect samples from thick turf. In fact, it may not be possible to collect surface soil samples at sites where thick turf or impervious substrates are predominant. As much as possible, surface-soil samples should be collected in conjunction with the 1" soil cores but it is not essential that they overlap if one or the other type of sample is not feasible. It is not necessary to record the GPS location of surface soil samples.
+A total of four surface soil (2cm depth) samples are to be collected, one corresponding to each of the 1" soil core locations. Sweep aside gravel and loose vegetation before collecting sample, but do not collect samples from thick turf. In fact, it may not be possible to collect surface soil samples at sites where thick turf or impervious substrates are predominant. As much as possible, surface-soil samples should be collected in conjunction with the 1" soil cores but it is not essential that they overlap if one or the other type of sample is not feasible. It is not necessary to record the GPS location of surface soil samples.
 
 
 __*Surface Soil - detailed instruction*__
@@ -380,7 +380,7 @@ ODK form: s200_GPI
 
 * Quantify land use of the plot (only of the plot; add 'landuses_sampling_event' group)
 
-   * Percent of the plot area that is in the land use using the LTER land use categories 1 through 6. This will often be 100% (e.g., desert sites) but some plots will cover multiple categories (e.g., 60% residential, 400% street). Make sure percentages sum to 100%. Identify categories using outline codes (e.g., 1B1 for institutional (schools, churches, etc.) sites).
+   * Percent of the plot area that is in the land use using the LTER land use categories 1 through 6. This will often be 100% (e.g., desert sites) but some plots will cover multiple categories (e.g., 60% residential, 40% street). Make sure percentages sum to 100%. Identify categories using outline codes (e.g., 1B1 for institutional (schools, churches, etc.) sites).
 
 * Note the use of buildings on the plot.
 

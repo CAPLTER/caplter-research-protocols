@@ -4,12 +4,13 @@ Updated by R. Erickson, February 2017
 
 
 Reagent: 6M HCl with 3% by weight FeCl2.4H2O
+
 To a 1 liter volumetric flask, add 30g FeCl2.4H2O + 500mL conc HCl. Allow to cool. Dilute to mark and mix.
 
 
 ### **Procedure:**
 
-Weigh 1g of sample or standard into serum bottle, either 20mL or 100mL, depending on sensitivity desired. Sherrod et al (2002) suggest screening samples by using a 1 hour reaction time with a 0.25g sample size in the 100mL bottle, and them evaluating the voltage produced. This is fine as long as there is enough sample. As long as your samples are less than 1.8% IC, it is probably safe to use the 20mL bottle. With higher concentrations you risk cracking and possibly shattering the bottle.
+Weigh 1g of sample or standard into serum bottle, either 20mL or 100mL, depending on sensitivity desired. Sherrod et al (2002) suggest screening samples by using a 1 hour reaction time with a 0.25g sample size in the 100mL bottle, and then evaluating the voltage produced. This is fine as long as there is enough sample. As long as your samples are less than 1.8% IC, it is probably safe to use the 20mL bottle. With higher concentrations you risk cracking and possibly shattering the bottle.
 
 Carefully add vial containing 2mL of 6M HCl reagent to serum bottle with tweezers. Periodically rinse tweezers to keep from corroding. Wear gloves, glasses, and lab coat.
 

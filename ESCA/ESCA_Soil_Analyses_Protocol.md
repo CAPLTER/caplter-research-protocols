@@ -19,7 +19,7 @@ For sieved soil, weigh 10g fresh weight soil into 100mL bottles, add 50mL 2M KCl
 
 Weigh an additional 10g for soil moisture and organic matter content determination into a tared aluminum weighing pan and re-weigh. Record weight. Put pan + soil into 60 degree C oven for 48 hours. After 48 hours, remove pan + soil from oven and let cool 30 minutes in a desiccator. Then weigh again. Record dry weight. Then place pan + soil into 550 degree C muffle furnace for 2 hours. Use the one in GWC677. After 2 hours, shut off furnace and open the door a crack, and leave soil to cool until the following day. Remove pan + soil from furnace and place in 60 degree C oven for 48 hours. After 48 hours, remove pan + soil from oven and let cool 30 minutes in a desiccator. Re-weight and record weight. These data will be used to calculate moisture and organic matter content.
 
-Analyze KCl soil extracts on the Lachat flow onjection analyzer in GWC677 and determine NH<sub>4</sub> and NO<sub>3</sub> concentrations in mg N/L.
+Analyze KCl soil extracts on the Lachat flow injection analyzer in GWC677 and determine NH<sub>4</sub> and NO<sub>3</sub> concentrations in mg N/L.
 
 Samples that are not analyzed within a day of extraction should be kept frozen.
 
@@ -42,11 +42,11 @@ Dry soil weight used for KCl extraction = Fresh soil weight used for KCl extract
 Soil Extractable N (mg N/kg DW soil) = N concentrations in KCl solution (mg/L) x 50 (volume of KCl used for extraction) / Soil Dry weight used for extraction.
 
 
-## **Extraction:**
+## **Extraction of available P:**
 
 Calculate the volume of the bicarbonate extractant needed for the number of samples to be analyzed (40mL per sample if using 2g soil).
 
-Prepare 0.5M NaHCO<sub>3</sub> extractant. For 1L, use 42 grams reagent grade NaHCO<sub>3</sub>. The solution pH should be approximately 8.5. Adjust by adding NaOH pellets first, then 15N NaOH (600g NaOH pellets/1L nanopure), or 50% w/w NaPH solution by dropper when close.
+Prepare 0.5M NaHCO<sub>3</sub> extractant. For 1L, use 42 grams reagent grade NaHCO<sub>3</sub>. The solution pH should be approximately 8.5. Adjust by adding NaOH pellets first, then 15N NaOH (600g NaOH pellets/1L nanopure), or 50% w/w NaOH solution by dropper when close.
 
 Air dry soil and sieve to remove rocks and other large particles. Survey200 soils have already been sieved so more sieving should not be necessary. If pre-dried soil in bags appears moist, leave bags open overnight to dry. If soils appear to have not been sieved prior to air drying (consist mainly of large dried chunks), grind a subsample with small mortar and pestle and use this for the analysis.
 
@@ -54,7 +54,7 @@ Acid wash sample vials & filter funnels before use.
 
 Weigh about 2g of air dried and sieved soil into 100mL bottles, add 40mL of the 0.5M bicarbonate solution and shake at low speed for 1 hour on reciprocating shaker. RECORD EXACT WEIGHT of soil used for each sample.
 
-Filter samples through Whatman no. 42 ashless filter paper (using ordinary unashed filters may add P to the filtrate). Fold the filters into quarters & place in folter funnels. Ensure filter papers and funnels are rinsed with the extractant solution BEFORE filtration. Filter the sample and retain the filtrate in a clean vial. At this point the samples can be FROZEN if not going to be analyzed right away (samples should be analyzed within 48 hours of production OR frozen for later analysis). Dump the dirty filter paper.
+Filter samples through Whatman no. 42 ashless filter paper (using ordinary unashed filters may add P to the filtrate). Fold the filters into quarters & place in filter funnels. Ensure filter papers and funnels are rinsed with the extractant solution BEFORE filtration. Filter the sample and retain the filtrate in a clean vial. At this point the samples can be FROZEN if not going to be analyzed right away (samples should be analyzed within 48 hours of production OR frozen for later analysis). Dump the dirty filter paper.
 
 Once filtrate is ready to analyze, pour into Lachat sample tubes and pH adjust the filtrate with conc. H<sub>2</sub>SO<sub>4</sub> to a pH of 5-6, otherwise proper color development may not occur in the later stages of the analysis. Analyze on the Lachat flow injection analyzer in GWC677 and deterine available P concentrations in mg P/L. Calculate soil P in mg/kg (ppm) by multiplying the solution concentration in mg/L times 20.
 
@@ -223,7 +223,7 @@ Quantitatively transfer the suspension to a 1000mL settling cylinder and bring t
 
 Allow time for mixture to equilibrate thermally (10 min is sufficient) and record temperature.
 
-Insert the plunger and while holding the bottom of the cylinder, mix the solution thoroughly. Stirring should be dhone with rapid upstrokes and gentle downstrokes such that all the sediments are dislodged from the bottom of the cylinder. Mix in this fashion for about 5 to 10 seconds, finish with two or three slow smooth strokes. If a plunger is not available, cover the top of the cylinder with parafilm, and then the palm of your hand, and grasping the bottom of the cylinder, carefully invert the cylinder and in an up-and-down motion, thoroughly mix the contents. Do not allow the contents of the cylinder to leak or spill.
+Insert the plunger and while holding the bottom of the cylinder, mix the solution thoroughly. Stirring should be done with rapid upstrokes and gentle downstrokes such that all the sediments are dislodged from the bottom of the cylinder. Mix in this fashion for about 5 to 10 seconds, finish with two or three slow smooth strokes. If a plunger is not available, cover the top of the cylinder with parafilm, and then the palm of your hand, and grasping the bottom of the cylinder, carefully invert the cylinder and in an up-and-down motion, thoroughly mix the contents. Do not allow the contents of the cylinder to leak or spill.
 
 When mixing is completed, insert the hydrometer slowly into the solution and take a reading (at the *top* of the meniscus) at 0.5 min and 1 min. Begin timing as soon as the cylinder is placed on the table after mixing. Record as R<sub>0.5</sub> and R<sub>1</sub>. Read to the nearest 0.5g. Rinse and dry the hydrometer between samples. Record temperature after the R<sub>1</sub> reading.
 

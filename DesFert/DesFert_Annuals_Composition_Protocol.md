@@ -62,7 +62,7 @@ Desert Botanical Garden | DBG | Urban Core
 Mountain View Park, North Mtn Park | MVP | Urban Core
 South Mountain Park, East | SME | Urban Core
 South Mountain Park, West | SMW | Urban Core
-White Tanks Mtn Regional Park, East | WTM | West Valley
+White Tank Mtn Regional Park, East | WTM | West Valley
 Estrella Mtn Regional Park, East | EME | West Valley
 Estrella Mtn Regional Park, West | EMW | West Valley
 Sonoran Desert National Monument, East | SNE | West Valley

@@ -17,10 +17,12 @@
 3. If 'view' doesn't work, go to 'computer', 'local disk C:', 'Campbellsci', 'Loggernet'
 4. Look for 'CR1000_TenMin.dat'
 5. Rename file with site and collection date
-6. If you forget to rename file, it will NOT be written over!
-7. Save on data stick or email from laptop via internet connection
+6. If you forget to rename file it will NOT be written over!
+7. Save on thumb drive or email from laptop via internet connection
 
 **Notes:**
+
+LDP Datalogger box lock code: 4467
 
 Connect cable to RS232 port on CR1000.
 

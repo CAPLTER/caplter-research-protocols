@@ -3,7 +3,7 @@
 Last updated February 2017
 
 
-One collector is currently operating on the roof of the Life Science-A building on campus (LSA). A key is in the top right drawer of the lab desk in LSA 311 (Grimm Lab) and is labeled "Roof" with green tape.
+One collector is currently operating on the roof of the Life Science-A building on campus (LSA). A key is located in GWC681 in the desk drawer and is labeled "LSA Roof" with white lab tape.
 
 ### **Supplies:**
 

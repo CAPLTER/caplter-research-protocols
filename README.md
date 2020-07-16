@@ -2,10 +2,6 @@
 Repository of CAP LTER field and lab protocols for long-term monitoring projects
 
 
-### Make changes:
-* Update location of key to LSA roof in ADP protocols   
-
-
 ## How to make updates to protocols using GitKraken:
 
 1. GitKraken will recognize every file that has had a change. Select each pending file that is ready to upload by clicking "Stage file". If every file is ready to upload, select "Stage all changes".

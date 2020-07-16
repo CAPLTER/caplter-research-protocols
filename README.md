@@ -16,17 +16,17 @@ Repository of CAP LTER field and lab protocols for long-term monitoring projects
 2. Add a Commit Message describing the changes made. Click "Stage files/changes to commit" to finalize changes.
 
 **Figure 2. Staging/committing files, with Commit Message.**
-![alt text](Images/GitKraken_Fig2.JPG "Figure 2")
+![alt text](Images/GitKraken_Fig2.jpg "Figure 2")
 
 3. A new branch will appear with your changes. Currently, those changes reside locally, and are not yet online. To merge your changes with the online CAP repository, click "Push".
 
 **Figure 3. Pushing local branch online to origin.**
-![alt text](Images/GitKraken_Fig3.JPG "Figure 3")
+![alt text](Images/GitKraken_Fig3.jpg "Figure 3")
 
 4. To verify your changes have successfully been uploaded, a notification should appear in the corner of your screen saying "Pushed Successfully". Additionally, there should only be one branch present in Gitkraken, with both the "origin" and "local" icons.
 
 **Figure 4. Pushed Successfully. Red arrow: both "origin" and "local" icons.**
-![alt text](Images/GitKraken_Fig4.JPG "Figure 4")
+![alt text](Images/GitKraken_Fig4.jpg "Figure 4")
 
 
 ## Github Markdown Cheat Sheet:

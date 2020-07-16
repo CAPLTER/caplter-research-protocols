@@ -23,4 +23,6 @@ Revised December 2017
 
 * To move to the next of nine surveys, Click "Sampling Events" then click on the unique "ID" that the database gives that day's survey. Repeat "add a new survey" for the remaining survey entries.
 
-* Once the datasheet has been completely entered, QC your work by clicking on "ID" to see the database entry, using the various edit and delete buttons for each field as needed. You must "go here" to QC each of the nine survey entries.
+* Once the datasheet has been completely entered, QC your work by clicking on "ID" to see the database entry, using the various edit and delete buttons for each field as needed. You must "go here" to QC each of the nine survey entries. The unique sampling event number (found in the top left corner of the 'Sampling Event Details' box) and the initials of the person entering the data, should now be penciled in the top left hand corner of the paper datasheet.
+
+![alt text](Images/SRBP_HerpDataEntry_Fig1.jpg "Figure 1")

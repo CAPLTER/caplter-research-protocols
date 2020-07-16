@@ -24,7 +24,7 @@ The primary observer may be accompanied to the point by an additional observer w
 
 ## **Count Conditions**
 
-* The first point count should be started _no earlier than local sunrise_. The final point count shold be finished _no later than 4 hours past local sunrise_.
+* The first point count should be started _no earlier than local sunrise_. The final point count should be finished _no later than 4 hours past local sunrise_.
 
 * Do not conduct point counts in steady or heavy rain, though it is acceptable to conduct counts in light, intermittent drizzle (be sure to make note of this in the _"Precipitation"_ section of the datasheet). It is recommended to use Rite in the Rain paper during drizzle conditions.
 
@@ -43,11 +43,11 @@ The primary observer may be accompanied to the point by an additional observer w
 
 * Approach the plot as quietly as possible to minimize disturbance to the birds present.
 
-* At the bottom of your datasheet, make note of any bird species flushed by your approach in case they do not return during the count, as well as any bird species seen or heard before and/or after the count. After your count, if these species have not been recorded during the 15-minute survey, record these species in the _"Notable additional bird species"_ section. Bird species recorded under this section are species NOT observed during the count but observed while at the site.
+* At the bottom of your datasheet, make a note of any bird species flushed by your approach in case they do not return during the count, as well as any bird species seen or heard before and/or after the count. After your count, if these species have not been recorded during the 15-minute survey, record these species in the _"Notable additional bird species"_ section. Bird species recorded under this section are species NOT observed during the count but observed while at the site.
 
 * Stand quietly at the bird point for 5 minutes before starting the count. This is essential to allow any disturbance caused by the approach to settle down.
 
-* Use this 5-minute settle-down time to fill out the information at the top of the datasheet, set up the noise meter, and find your distance brackets (5m, 10m, 20m, 40m) with a range finder.
+* Use this 5-minute settle-down time to fill out the information at the top of the datasheet, and find your distance brackets (5m, 10m, 20m, 40m) with a range finder.
 
 * Record the _"Site condition"_ section of the datasheet any unusual circumstances around the plot, such as construction activity or flooding, or anything you noticed that has changed since your last visit. Also note presence of water (or absence of it) at sites where water is typically present such as at riparian sites or absent such as desert sites.
 
@@ -62,7 +62,7 @@ After the 5-minute settle-down period, set a timer and conduct the count for 15 
 
 * Use the standardized four-letter alphabetic ("alpha") codes for the English bird names from The Institute for Bird Populations (http://www.birdpop.org/pages/birdSpeciesCodes.php). If unknown, refer to the bird code list provided, or write down the complete common name of the bird and look up the code when reviewing your datasheet.
 
-* If the species cannot be positively identified, use the closest taxonomic affiliation from the provided bird code list. It is better to record something as "unknown" rather than guess. Make sure you look at all the "unidentified" code options listed on the list to pick the most appropriate code.
+* If the species cannot be positively identified, use the closest taxonomic affiliation from the provided bird code list. It is better to record something as "unknown" rather than guess. Make sure you look at all the "unidentified" code options listed on the list, in order to pick the most appropriate code.
 
 * NOTE: For the Yellow-rumped Warbler _(Setophaga coronata)_, we use the code YRWA. If the observer can visually identify the sub-species we use the appropriate code. Audubon's Warbler = AUWA, and Myrtle Warbler = MYWA.
 
@@ -73,7 +73,7 @@ After the 5-minute settle-down period, set a timer and conduct the count for 15 
 
 * Only record a number greater than one on a single line if birds of the same species are observed very close together, such as a flock or family group.
 
-* If a mixed flock is observed, put each species on a separate line and note in the _"Notes"_ colmn that they were part of a mixed flock.
+* If a mixed flock is observed, put each species on a separate line and note in the _"Notes"_ column that they were part of a mixed flock.
 
 * Write the number of individuals observed in the appropriate distance columns.
 
@@ -106,7 +106,7 @@ After the 5-minute settle-down period, set a timer and conduct the count for 15 
 
 ### **Direction**
 
-* Record the direction the bird was **first** observed or heard. This may mean recording a bid heard to the south (S) even though you were facing northwest (NW) at the time.
+* Record the direction the bird was **first** observed or heard. This may mean recording a bird heard to the south (S) even though you were facing northwest (NW) at the time.
 
 * Use the cardinal and mid-cardinal points of the compass (N, NE, E, SE, S, SW, W, NW) in this column.
 

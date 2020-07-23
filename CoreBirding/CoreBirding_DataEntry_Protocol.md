@@ -28,4 +28,4 @@ Revised July 2019
 
 * When bird entries are complete, click "Add a new noise observation" to enter data from the Sound Meter that is at the top of the datasheet. Enter the Sound Meter ID for "Meter", "Min noise", "Max noise", and "Noise description", which is the "Prominent noise source" line on the datasheet. If the minimum sound level is Lo, then leave the "Min noise" field blank and choose "below detection" from the "Min noise flag" drop down list. Do not enter "Max noise flag" as this field is no longer collected.
 
-* Once the datasheet has been completely entered, QC your work by clicking on "Surveys", then click on the unique number ID the database has given the survey. All fields from the datasheet will be visible o QC. Use the various edit and delete buttons for each field as needed.
+* Once the datasheet has been completely entered, QC your work by clicking on "Surveys", then click on the unique number ID the database has given the survey. All fields from the datasheet will be visible to QC. Use the various edit and delete buttons for each field as needed.

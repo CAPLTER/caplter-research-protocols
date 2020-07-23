@@ -29,7 +29,7 @@ Equipment: Exetech 407727 Digital Sound Level Meter (40 to 130 dB measurement ra
 _Note: These settings will not change once they are set initially but get in the habit of checking quickly before each recording to be sure._
 
 
-5. When you are ready to bird, stand behind the meter and press 'RECORD' to being recording. 'REC' will be displayed in the top-left corner while the meter is recording; the meter will note the highest and lowest sound levels while recording.
+5. When you are ready to bird, stand behind the meter and press 'RECORD' to begin recording. 'REC' will be displayed in the top-left corner while the meter is recording; the meter will note the highest and lowest sound levels while recording.
 
 6. Note the time on the datasheet and begin the point count.
 

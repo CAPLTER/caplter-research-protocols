@@ -8,7 +8,7 @@ _This protocol was based initially on the UFORE FOREST SURVEY devised by Dave No
 
 ## **Arriving at the site, first steps**
 
-Upon arriving at a site, use the Trimble GPS to locate the plot center. At desert sites only, locate the center nail, if present, and use it as plot center. Create a new folder in the GPS for the site, and record the location of the plot center. Use the Trimble GPS to identify the plot corners and midpoints - mark these with flags or cones. Stretch a meter tape between the North-South mid-points, so that the two cross at plot center, dividing the plot into four quadrants.
+Upon arriving at a site, use the Trimble GPS to locate the plot center. At desert sites only, locate the center nail, if present, and use it as plot center. Create a new folder in the GPS for the site, and record the location of the plot center. Use the Trimble GPS to identify the plot corners and midpoints - mark these with flags or cones. Stretch a meter tape between the North-South mid-points and another between the East-West mid-points, so that the two cross at plot center, dividing the plot into four quadrants.
 
 Divide tasks among crew members.
 

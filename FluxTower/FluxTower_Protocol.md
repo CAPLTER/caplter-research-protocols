@@ -261,7 +261,7 @@ Ground | Hub Red (Do not insert with Hub Black into same port!)
 2L | HMP45 white & jumper to 1L
 Ground | HMP45 black & shield
 12V | HMP45 red
-**Marine battery | - 
+**Marine battery** | - 
 12 V (positive) | Hub Power Red (thicker gage wire)
 Ground | Hub Black and Clear (thicker gage wire)
 

@@ -74,4 +74,4 @@ Each quarter, about 10 boxes of Qorpak jars, containing samples from 20 sites, a
 * Use photo editing software to improve the picture if needed.
 
 **Figure 1.  How to use EOS Utility to take pictures and use remote shooting.**
-![alt text](Images/Arthropods_Lab_Fig1.JPG "Figure 1")
+![alt text](Images/Arthropods_Lab_Fig1.PNG "Figure 1")

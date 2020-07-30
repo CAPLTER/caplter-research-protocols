@@ -1,15 +1,15 @@
-# *Stormwater Flowlink Protocol**
+# **Stormwater Flowlink Protocol**
 
 Updated August 2010
 
 
 1. Open Flowlink 5.1.
 
-2. Click the 'Database' button on the top of the screen and select 'Open'. Note: the 'Connect' window may open automatically upon startup, simply exit this window.
+2. ~~Click the 'Database' button on the top of the screen and select 'Open'. Note: the 'Connect' window may open automatically upon startup, simply exit this window.~~
 
-3. After the 'Open Database' window appears, select 'Browse'.
+3. ~~After the 'Open Database' window appears, select 'Browse'.~~
 
-4. Select 'SNAZ.mbd' and click open. (Full address on the GIOS Laptop: C:\Documents and Settings\All Users\Application Data\Flowlink 5.1\SNAZ.mbd). Then click 'OK' on the 'Open Database' window.
+4. ~~Select 'SNAZ.mbd' and click open. (Full address on the GIOS Laptop: C:\Documents and Settings\All Users\Application Data\Flowlink 5.1\SNAZ.mbd). Then click 'OK' on the 'Open Database' window.~~
 
 5. Plug the communications cable into the ISCO (to the right of the rain gauge plug) and plug the USB end into the laptop. Note: Check to ensure the Unit is on.
 
@@ -17,7 +17,7 @@ Updated August 2010
 
 7. In the 'Connect' window, select the 'COM port' pulldown menu and select '4'. Leave the 'Baud rate on 'Default'. Make sure 'Type' is set to 'Direct'.
 
-8. If this is the first time an ISCO is being connected to Flowlink, select 'Create new site' at the bottom of the screen.
+8. ~~If this is the first time an ISCO is being connected to Flowlink, select 'Create new site' at the bottom of the screen.~~
 
 9. Select the large button (top left) with '4100/4200/6700 Instruments' above it.
 

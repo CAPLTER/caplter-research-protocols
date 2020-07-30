@@ -233,8 +233,7 @@ Rain gauge (1) | Precipitation | Measures on-site rainfall
 '           LI-7500 SDM Clock (blue)
 'SDM-C3     CSAT3 SDM Enable (brown)
 '           LI-7500 SDM Enable (brown)
-
-
+```
 
 # Appendix A: 
 

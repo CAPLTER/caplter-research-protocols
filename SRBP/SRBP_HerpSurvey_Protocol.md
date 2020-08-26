@@ -1,7 +1,7 @@
 # **SRBP Herp Survey Protocol**
 
 Updated by Shero Holland, November 6, 2017
-Edits by Sally Wittlinger and Heather Bateman, December 14, 2017
+Edits by Kristan Godbeer, August 26th, 2019
 File paths updated June 2019
 
 
@@ -27,7 +27,7 @@ File paths updated June 2019
 
 * Before entering the river bottom at Priest Drive, call the Water Operations Control Center at (480) 350-2669 (taking care not to schedule this site during a rainy period) and again after leaving (i.e., check-in and check-out).
 
-* After leaving the river bottom at Price Drain, be sure and email Erik Arntz (erikarntz@mail.maricopa.gov), Tony Peters (tonypeters@mail.maricopa.gov) and Robert Coutts (RobertCoutts@mail.maricopa.gov) to let them know that you are safely out. Note: these same three people should have been contacted a few days to your visit for approval to visit the site on the planned day.
+* After leaving the river bottom at Price Drain, be sure to email the staff at  Maricopa County Flood Control District, to let them know that you are safely out.  For their contact information, see the SRBP Important Contact Information document.  Note: these people should have been contacted a few days prior to your visit, to obtain approval to visit the site on the planned day.
 
 
 ## **While walking the reach but not surveying:**
@@ -43,7 +43,7 @@ File paths updated June 2019
 
 * Start and record the survey time once both observers are in position.
 
-* Both observers scan the plot with eyes **and binoculars** to look for active or basking herps. Herps are very cryptic, and it is easy to miss the smaller ones by looking only with your eyes. Scan for herps that are on the group, on rocks, on logs, on tree trunks and branches (up to ~2m in height), etc. Both observers should scan the entire plot, not just his/her half. By standing in different locations, each observer has a different view of the plot and thus may see a herp that the other observer cannot see, even if the other observer is closer to it.
+* Both observers scan the plot with eyes **and binoculars** to look for active or basking herps. Herps are very cryptic, and it is easy to miss the smaller ones by looking only with your eyes. Scan for herps that are on the ground, on rocks, on logs, on tree trunks and branches (up to ~2m in height), etc. Both observers should scan the entire plot, not just his/her half. By standing in different locations, each observer has a different view of the plot and thus may see a herp that the other observer cannot see, even if the other observer is closer to it.
 
 * Once both observers are done scanning, they should both start searching the plot at the same time, walking roughly at the same pace, to increase the chances of seeing fleeing herps. Each observer is responsible for searching half of the plot, a 5m-wide-by-20m-long area. Observers can identify the centerline of the plot by the flagging, whereas each endpoint is marked with a whisker and pin flag and/or double-flagged vegetation or rocks.
 
@@ -63,7 +63,7 @@ File paths updated June 2019
 
 * If a herp is seen but unidentified, both observers can tag-team the herp to get a positive identification. To do so, stand on each side of the suspected herp location with one person searching through the vegetation and the other person standing still and looking diligently for any sign of the herp. Ideally, leave an open path between the suspected current location of the herp and where it came from, in hopes that it will go back there. Once a positive identification is achieved, or if you cannot find your herp within a reasonable amount of time, resume the plot search from where you left off.
 
-* If a herp is observed outside the plot, it may be recorded in the Reach-level Observations setion of the datasheet.
+* If a herp is observed outside the plot, it may be recorded in the Reach-level Observations section of the datasheet.
 
 * Once observers reach the far end of the plot, they should turn around and scan again with eyes and binoculars. Like the scan done prior to surveying the plot, if vegetation or other obstructions are in the way, you may adjust the observation position slightly for a better view; some plots are so thickly vegetated that you may only be able to see a portion of the plot. **DO NOT** walk back through the plot making additional observations. When both observers are done scanning, stop and record survey time.
 

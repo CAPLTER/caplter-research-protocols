@@ -233,8 +233,7 @@ Rain gauge (1) | Precipitation | Measures on-site rainfall
 '           LI-7500 SDM Clock (blue)
 'SDM-C3     CSAT3 SDM Enable (brown)
 '           LI-7500 SDM Enable (brown)
-
-
+```
 
 # Appendix A: 
 
@@ -262,7 +261,7 @@ Ground | Hub Red (Do not insert with Hub Black into same port!)
 2L | HMP45 white & jumper to 1L
 Ground | HMP45 black & shield
 12V | HMP45 red
-**Marine battery | - 
+**Marine battery** | - 
 12 V (positive) | Hub Power Red (thicker gage wire)
 Ground | Hub Black and Clear (thicker gage wire)
 

@@ -2,13 +2,13 @@
 
 ## **Preparation for Calibrations**
 
-* Before downloading data and calibrating datasonde, clean biofueling off datasonde and sensors. Be extremely careful around the pH sensor as bulb is extremely fragile.
+* Before downloading data and calibrating datasonde, clean biofouling off datasonde and sensors. Be extremely careful around the pH sensor as bulb is extremely fragile.
 
 * Clean sensor guard and anti-fouling copper. Replace copper if necessary.
 
 * Check wiper blade for wear and replace if necessary (every few months).
 
-* Connect datasonde to PC to download the data, it will find correct COM pot and initialize. Once connected, download data: Software&rarr;Manta2, there will be many Manta2 files, chose the most recent file and export to C Drive/Manta2. This file must also be copied to the CAP LTER Dropbox folder: Dropbox\research\TempeTownLake\Data. File name should be YYMMDD_TTL_data, with the STARTING date of the log file indicated (i.e., one month earlier).
+* Connect datasonde to PC to download the data, it will find correct COM port and initialize. Once connected, download data: Software&rarr;Manta2, there will be many Manta2 files, chose the most recent file and export to C Drive/Manta2. This file must also be copied to the CAP LTER Dropbox folder: Dropbox\research\TempeTownLake\Data. File name should be YYMMDD_TTL_data, with the STARTING date of the log file indicated (i.e., one month earlier).
 
 * Logging must be turned OFF to calibrate. Use storage cup for calibrations, can use reverse side of cap (sealed, but not screwed on) for rinses.
 
@@ -23,7 +23,7 @@
 
 * Before returning to field, install new batteries (Note: the two battery tubes have opposite orientation).
 
-* Create a new data log named YYMMDD_TTL_data, using today's date. Be sure to START LOGGING. After disconnecting the cable between Manta and computer, five red flashes on the Mata indicate that the logging in on; following the red flashes, there will be one yellow flash for each battery volt > 5.
+* Create a new data log named YYMMDD_TTL_data, using today's date. Be sure to START LOGGING. After disconnecting the cable between Manta and computer, five red flashes on the Mata indicate that the logging is on; following the red flashes, there will be one yellow flash for each battery volt > 5.
 
 
 ## **Calibrations**
@@ -187,9 +187,9 @@
    7. We adjusted the screw clockwise until it recorded 40.1. As long as CalCube is not adjusted, this reading will equal 40 &mu;g/L in the future.
 
 
-8. CDOM/*f*DOM Calibration (with quinine sulfate standard)
+8. CDOM/*f*DOM Calibration (with quinine sulfate standard or Turner PTSA standard)
 
-   1. CDOM calibration is a two point calibration, we use 300 &mu;g/L (0.3 ppm) and 0.
+   1. CDOM calibration is a two point calibration, we use 300 &mu;g/L (0.3 ppm) and 0 (or 400ppb Turner standard and 0).
 
    2. Do not need to rinse if last calibration was done with DI water.
 

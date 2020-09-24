@@ -18,13 +18,14 @@ Last updated December 2019
 
 ## **Supplies:**
 
-* Two (2) Samsung tablets
+* Two (2) Samsung tablets and charging cables for charging in vehicle
 * Scissors
 * Sharpies
 * Rolls of colored lab tape (the color used rotates each time new measurements are taken)
 * Analog and/or digital calipers
 * Pin flags
 * Metal tree tags
+* Coin envelopes for *Latr* leaf samples
 
 ## **Field Protocol:**
 

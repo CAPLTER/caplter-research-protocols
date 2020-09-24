@@ -1,21 +1,22 @@
-# **DesFert (CN DEP) Spring Annuals Biomass Harvest**
+# **DesFert Spring Annuals Biomass Harvest**
 
 February 2015  
-Last editors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Lindsey Pollard  
-Updated by Sally Wittlinger, Spring 2016  
+Contributors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark Lindsey Pollard and Sally Wittlinger
+Updated by Quincy Stewart, Fall 2020 
 
-Each spring when there is sufficient rainfall, we estimate aboveground net primary productivity (ANPP) of herbaceous annual plants in each of the CN Dep study plots by harvesting the aboveground portion of annual herbs from a 1/2 m x 1/2 m section of established 1m x 1m sub-plots. These plots are distinguished from similar 1m x 1m sub-plots that are used for community composition. Take care to avoid the community composition sub-plots! Only harvest the sub-plots that are designated for biomass.
+Each spring when there is sufficient rainfall, we estimate aboveground net primary productivity (ANPP) of herbaceous annual plants in each of the DesFert study plots by harvesting the aboveground portion of annual herbs from a 1/2 m x 1/2 m section of established 1m x 1m sub-plots. These plots are distinguished from similar 1m x 1m sub-plots that are used for community composition. Take care to avoid the community composition sub-plots! Only harvest the sub-plots that are designated for biomass.
 
 ## **Protocol overview:** 
 
-In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each of two patch types, between shrubs (IP for 'inter-plant space') and under the canopies of *Larrea tridentata* (P for 'under plant'). Each sub-plot is coded with the patch type (IP or P); the letter B for biomass (to distinguish it from the community composition sub-plots which are not harvested and do not have a letter B after the patch type code); and the sub-plot number (1 or 2). For example, IPB1 & IPB2 are interplant space sub-plots one and two, and PB1 and PB2 are sub-plots 1 and 2 under *Larrea* shrubs. Remember that the biomass sub-plots are distinguished from the community composition sub-plots with the letter B after the patch type code (example, IPB1 = Biomass sub-plot 1, inter-plant space). Within each 1m x 1m biomass sub-plot, teams will clip aboveground annual biomass from **one** 1/2 m x 1/2 m quadrat in each 1m biomass sub-plot. This sub-section is rotated each year so that any given patch of ground is harvested at the most once every four years. Teams will carefully write the plot identifier on paper bags. (Double-check the labels! Labeling mistakes are the most common error in this procedure). Then, teams will cut all grean and brown herbaceous plant biomass that occurs within the boundaries of the 1/2 m x 1/2 m sub-section and place it in the pre-labeled bag. After the harvest is done, teams will dry the bags and biomass at 60 degrees Celsius for 48 hours, then weigh the biomass (subtracting the weight of the bag) on a scale and record.
+In each DesFert plot, we established 4 "biomass" sub-plots per plot, two in each of two patch types, between shrubs (IP for 'inter-plant space') and under the canopies of *Larrea tridentata* (P for 'under plant'). Each sub-plot is coded with the patch type (IP or P); the letter B for biomass (to distinguish it from the community composition sub-plots which are not harvested and do not have a letter B after the patch type code); and the sub-plot number (1 or 2). For example, IPB1 & IPB2 are interplant space sub-plots one and two, and PB1 and PB2 are sub-plots 1 and 2 under *Larrea* shrubs. Remember that the biomass sub-plots are distinguished from the community composition sub-plots with the letter B after the patch type code (example, IPB1 = Biomass sub-plot 1, inter-plant space). Within each 1m x 1m biomass sub-plot, teams will clip aboveground annual biomass from **one** 1/2 m x 1/2 m quadrat in each 1m biomass sub-plot. This sub-section is rotated each year so that any given patch of ground is harvested at the most once every four years. Teams will carefully write the plot identifier on paper bags. (Double-check the labels! Labeling mistakes are the most common error in this procedure). Then, teams will cut all grean and brown herbaceous plant biomass that occurs within the boundaries of the 1/2 m x 1/2 m sub-section and place it in the pre-labeled bag. After the harvest is done, teams will dry the bags and biomass at 60 degrees Celsius for 48 hours, then weigh the biomass (subtracting the weight of the bag) on a scale and record.
 
 
 ## **Supplies:**
 
 * List of sub-sections (1/2 m x 1/2 m sub-quads in each 1m x 1m plot to sample this year; 1 list for each person)
-* 1m x 1m & 1/2 m x 1/2 m PVC piping (one for each person)
-* 90 degree PVC elbows
+* Four 1m sections of PVC per person
+* Two 1/2m sections of PVC per person
+* Five 90 degree PVC elbows per person
 * Paper lunch bags for biomass
 * Paper grocery bags for either biomass within a plot (if it's a good rainfall year), or to collect/organize labeled lunch bags from each site
 * Coin envelopes to collect *Pectocarya recurvata* for nutrient analysis (collect from outside of the sub-plot but within the main nutrient plot)
@@ -24,7 +25,7 @@ In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each 
 * Knee pads/garden kneeling mats
 * Gardening gloves
 * Site directions (in binder) and GPS unit
-* Key for DBG gate padlock, keycode for EME and MCS gate padlocks
+* Key for DBG gate padlock, keycode for EMW, EME and MCS gate padlocks
 * Labeling tags, rebar, mallet (to replace rebar or tags for sub-plots at any site)
 
 **Figure 1.  Layout & sampling rotation of biomass quadrats.**
@@ -35,7 +36,7 @@ In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each 
 ### **Field Protocol:**
 
 1. Before you go out to the field:
-   1. The 1/2 m quadrats in each subplot are numbered (but **not** marked on the ground) as 1 to 4 - quadrat 1 is north, 2 is east, 3 is south, and 4 is west (see Figure 1). The quadrats are sampled on a rotating basis, such that each quadrat is sampled only once every 4 years (e.g. if quad 1 was sampled last year, quad 2 is sampled this year). Before you go to the field, create a new list showing which quads to sample for each plot, using last year's list as a reference: (R:\CAP_LTER\research_data\CAPLTER_TechnicianFolder\CNdep\Biomass_Annuals\Biomass Collection).
+   1. The 1/2 m quadrats in each subplot are numbered (but **not** marked on the ground) as 1 to 4 - quadrat 1 is north, 2 is east, 3 is south, and 4 is west (see Figure 1). The quadrats are sampled on a rotating basis, such that each quadrat is sampled only once every 4 years (e.g. if quad 1 was sampled last year, quad 2 is sampled this year). Before you go to the field, create a new list showing which quads to sample for each plot, using last year's list as a reference: (NOTE: add new link next meeting)
    2. Pre-label all bags in the lab prior to field work so no plots are missed or mis-labeled. This can also be done in the field if necessary. On each lunch bag, record the date; your name/initials; site (3 letter code); plot number (1 to 75); treatment (C1 - no sampling from C2 plots, Nitrogen [N], Phosphorus [P], and Nitrogen+Phosphorus [NP]); Patch type (PB or IPB) and sub-plot within patch type (1 or 2). See Tables 1 and 2 below for plot numbers and site codes.
       1. Example: Date: 3/17/15; Sampling crew: SJH and KB; LDP; Plot 1 (N); IPB1 *(Note to double check the plot numbers and sub-plot numbers!)*
 2. At the site: Locate the biomass sub-plots within each larger 20m x 20m plot. In each CNDep plot, the biomass sub-plots are marked with 2 pieces of rebar which serve as plot corners - 1 long piece oriented to the north and a shorter piece oriented to the south.

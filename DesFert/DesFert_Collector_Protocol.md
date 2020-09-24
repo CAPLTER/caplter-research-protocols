@@ -1,18 +1,18 @@
-# **DesFert (CN Dep) Deposition Collector Protocol (7/2009)**
+# **DesFert (CN Dep) Deposition Collector Protocol (7/2009)**Updated (09/2020)
 
 Do rates of nitrogen deposition vary across Phoenix? How much nitrogen is added to soils from throughfall (underneath shrubs) compared to from deposition alone (in plant interspaces)? To answer these questions, we will measure nitrate and ammonium concentrations that will be collected on a column of anion and cation exchange resins that are placed within plant interspaces and beneath individuals of *Larrea* in each of our sites. In order to measure deposition rates, we will capture atmospheric ammonium and nitrate arriving to the deposition collectors over a pre-determined period of time.
 
 **Figure 1.**
 ![alt text](Images/DesFert_Collector_Fig1.JPG "Figure 1")
 
-Collectors are replaced every 3 months<sup>1</sup>. A set of collectors are located at each CN Dep study site with the exception of Mountain View Park (MVP). Each site has 4 collectors - 2 located underneath *Larrea* shrubs and 2 tied to rebar in interplant spaces. The deposition collectors consist of 2 main parts that are constructed in the lab - a screen-covered funnel and a resin column (fig. 1). In the field, the funnel is screwed onto the column and bird spikes are attached to the interplant collectors prior to installation.
+Collectors are replaced every 3 months<sup>1</sup>. A set of collectors are located at each Desfert study site with the exception of Mountain View Park (MVP). Each site has 4 collectors - 2 located underneath *Larrea* shrubs and 2 secured to rebar in interplant spaces. The deposition collectors consist of 2 main parts that are constructed in the lab - a screen-covered funnel and a resin column (fig. 1). In the field, the funnel is screwed onto the column and bird spikes are attached to the interplant collectors prior to installation.
 
-<sup>1</sup> except for 2 extra interplant collectors per region (WTM, DBG, MCS), which are replaced every 6 months.
+<sup>1</sup> except for 2 extra interplant collectors per region (WTM, DBG, MCS), which are replaced every 6 months. (from spring 2011- Fall 2012)
 
 **Figure 2.**
 ![alt text](Images/DesFert_Collector_Fig2.JPG "Figure 2")
 
-In addition to the 4 main collectors, 6 control columns are placed at 1 designated site in each region (WTM, DBG, and LDP). Three of the control columns are located underneath *Larrea* and 3 are tied to rebar in interplant spalces. A cap replaces the funnel in the control columns to prevent atmospheric ions from contacting the resin (fig. 2).
+In addition to the 4 main collectors, 6 control columns are placed at 1 designated site in each region (WTM, SMW, and LDP). Three of the control columns are located underneath *Larrea* and 3 are secured to rebar in interplant spalces. A cap replaces the funnel in the control columns to prevent atmospheric ions from contacting the resin (fig. 2).
 
 ## **Prep:**
 ### Deposition Collector Construction:
@@ -29,8 +29,8 @@ Supplies: be sure to take stock of supply levels early; many items on this list 
 * Glass wool
 * Bird spikes - 1 for each interplant collector
 * Resin
-* Parafilm
-* 20-gauge steel wire
+* PVC caps (w/o holes) for top of columns to transport columns to field 
+* Pipe clamps
 * 45-gallon trash bags
 
 1. Begin by attaching the funnels to the couplers.
@@ -54,7 +54,7 @@ Supplies: be sure to take stock of supply levels early; many items on this list 
 9. Turn the column over and clamp it to the ring stand so it is free standing.
    1. Place a small clean funnel in the top of the column.
    2. Using a clean 100 mL beaker, volumetrically transfer 60 mL of resin to the column. This does not need to be exact as long as it's close.
-   3. Remove the small funnel and cover with Parafilm. We will attach the coupler/funnel assembly to the column in the field.
+   3. Remove the small funnel and cover with PVC cap (w/o holes). We will attach the coupler/funnel assembly to the column in the field.
    4. Place all the columns needed for each region in a sweater box.
 10. Finish constructing the funnels.
    1. Place the aquarium filter square in the small opening of each funnel to prevent dust and debris from falling into the column.
@@ -64,27 +64,27 @@ Supplies: be sure to take stock of supply levels early; many items on this list 
 12. All that is left is to attach the columns to the funnels and then attach the bird spikes, which are both done in the field.
 
 ### Gather Field Supplies:
-Installing the collectors is usually spread out over 3 fiel days _ 1 day for each region.
+Installing the collectors is usually spread out over 3 field days - 1 day for each region.
 * Columns - 1 for each collector + 6 capped control columns
 * Screen-covered funnels - 1 for each collector
 * Bird spikes - 1 for each interplant collector
-* Carboy filled with DI
+* Two 3L bottles filled with DI
 * Watering can (wrapped in trash bag to keep clean)
-* 500 mL Nalgene bottles (4)
+* Four 500 mL bottles filled with DI
 * 1 L plastic graduated cylinder
-* Foil - 1 square for each non-control column
 * Extra aquarium filter pad squares
 * Extra 45-gallon trash bags
-* Baling wire (for attaching interplant connectors to rebar)
+* Pipe clamp (for attaching interplant connectors to rebar)
 * 20-gauge steel wire (for attaching bird spikes)
 * Wire cutters
 * Slip joint pliers
 * Field data sheet, clipboard
 * Pencils, Sharpies
-* CN Dep foler w/ site maps & study permits
+* DesFert folder w/ site maps & study permits
 * Keys for MCS & DBG
 * Nitex gloves & work gloves
-* Backpack
+* Backpack or bag
+* Screwdriver with removable heads
 
 ## **Field Protocol:**
 ### Establishing a new study site or repairing damage/vandalism:
@@ -93,20 +93,20 @@ Supplies:
 * PVC hole liners (same diameter as auger and only a bit bigger than the dep collectors)
 * Pea gravel for the bottom of the auger holes
 * 1.5 m rebar to mount interplant collectors
-* Sledge hammer
+* Sledgehammer
 
 1. Randomly pick 2 individuals of *Larrea* and two interplant positions per site. Choose individuals outside of the fertilization (or control) plots and away from obvious human foot traffic, roadways, buildings, or animal activity.
 2. Augur a 40 to 50 cm hole beneath the shrub.
 3. Place PVC liner in hole.
 4. Pour 3 cm of pea gravel into hole to assist with drainage.
 5. Move or break dead branches if necessary to give the funnel some room - the funnel should be aboveground but not touching the bottom branches of the shrub nor the bottom of the hole.
-6. To install interplant collectors, pound in 1.5 m rebar with a sledge hammer at the selected site.
+6. To install interplant collectors, pound in 1.5 m rebar with a sledgehammer at the selected site.
 
 ### Changing out the dep collectors:
 1. Before leaving the field vehicle:
-   1. Fill the 500 mL Nalgene bottles with DI from the carboy.
+   1. Fill the 500 mL bottles with DI from the 3L bottles if the bottles are not already filled.
    2. Using the 20-gauge wire, attach the bird spikes to the screen-covered funnel.
-   3. Remove the Parafilm from the columns and attach the funnels.
+   3. Remove the PVC caps (w/o holes) from the columns and attach the funnels.
    4. Bring the following with you to the study plot: 4 collectors, 6 control columns (if necessary), filled Nalgene bottles, watering can, graduated cylinder, foil, baling wire, wire cutters, pliers, field data sheet & clipboard.
 2. Examine all collector funnels and remove any large material that has settled on them (e.g. leaves, twigs, animal excrement, etc.). Make a note of any large amount of materials removed or any unusual appearance of collectors/funnels.
 3. For beneath-shrub collectors: Pour the water from 1 Nalgene bottle into the graduated cylinder and measure out 500 mL of DI water. Pour into the watering can and sprinkle water over branch so that the majority (all if possible) of the water enters (and rinses) the funnel.
@@ -115,11 +115,11 @@ Supplies:
 6. For interplant collectors, pour 500 mL of water over the funnel to rinse deposited particles into the resin column.
 7. After letting the water drain from the column, carefully detach collector from the rebar with the wire cutters. Replace with a new collector, using the baling wire and pliers to tighten.
 8. If the water won't drain through the collector, you may have to remove the screen from the funnel with wire cutters and gently poke the aquarium filter with a piece of wire until it starts draining.
-9. For the control columns, simply remove the old columns from the ground or rebar (no water) and replace with new columns and wire. For the beneath-shrub controls, make sure that the top of the cap is flush with the PVC hole liner and that you've attached some baling wire as a 'handle' so the column doesn't get stuck in the hole.
+9. For the control columns, simply remove the old columns from the ground or rebar (no water) and replace with new columns and re-secure with pipe clamp. For the beneath-shrub controls, make sure that the top of the cap is flush with the PVC hole liner and that you've attached some baling wire as a 'handle' so the column doesn't get stuck in the hole.
 10. Record the number of the old column on the datasheet. There should be no duplicate numbers. On the datasheet, beneath-shrub collectors are labeled 'LATR1 & LATR2'; interplant collectors are labeled 'IP1 & IP2'. It does not matter which collector is called '1' and which is '2'.
 11. Unscrew the funnel and cover the resin column with a piece of foil. Remove the bird spikes from the screens before putting them in a trash bag.
 12. Store collected resin columns upright in the sweater box in the vehicle, making sure they don't tip over. Record on the datasheet in any resin is lost.
-13. Place the columns in the walk-in refrigerator in GWC 673 until ready to perform extractions.
+13. Place the columns in the cooler designated for resin collectors and place cooler in the walk-in refrigerator in GWC 675 until ready to perform extractions.
 
 **Figure 3.**
 **_Larrea tridentata_ Dep Collector (LATR)**
@@ -148,7 +148,7 @@ Mixed bed resins are charged with H<sup>+</sup> and either Cl<sup>-</sup> or HCO
 **Procedure:**
 1. Remove resin columns from walk-in refrigerator.
 2. Fill the gallon jug with KCl solution and set the bottle top dispenser to 50 mL. Use this to dispense the KCl solution into the wash bottles.
-3. Match the number on the column with the number on a plastic 250 mL bottle. Remove tin foil covering the open end of the column and place the column upside down over the 250 mL bottle (column fits just inside bottle opening). Place 200 mL (4 pumps) KCl solution into an acid-washed wash bottle (it is important to use exactly 200 mL of KCl). Insert the wash bottle tip in to the cap holes and wash the majority of the resin into the bottle (tapping the bottle on the counter top helps facilitate this).
+3. Match the number on the column with the number on a plastic 250 mL bottle. Remove PVC cap (w/o holes) covering the open end of the column and place the column upside down over the 250 mL bottle (column fits just inside bottle opening). Place 200 mL (4 pumps) KCl solution into an acid-washed wash bottle (it is important to use exactly 200 mL of KCl). Insert the wash bottle tip in to the cap holes and wash the majority of the resin into the bottle (tapping the bottle on the countertop helps facilitate this).
 4. Once the majority of resin has been removed from the column, unscrew the cap and carefully rinse out any remaining resin into the bottle. Discard the glass wool and Nitex. Note on the datasheet if there is soil in the column/cap for any reason, or if the Nitex has ripped and resin lost.
 5. Pour the remaining KCl (if any) into the plastic bottle from the wash bottle. It is important to quantitatively transfer the resin + 200 mL KCl into the 250 mL bottle due to dilution issues.
 6. Repeat until all resin has been transferred from the columns.

@@ -28,7 +28,7 @@ We discussed the following analyses:
 1. At each site, pick 5 creosote, 5 ambrosia, and 5 open spaces to sample (one sample from each plot).
 2. At each creosote bush, choose a random direction (0 to 360 degrees), then measure halfway between the center of the bush and the edge of the crown along the random radius. This will be the soil sampling location.
 3. At the sampling location, remove any loose surface organic matter (loose leaves, twigs, etc.)
-4. Use a 10cm x 10cm quadrat (or something similar in size) and collect all soil within the quadrat to a depth of 2cm. Take care to saple the entire area to the same depth (unless you hit a rock).
+4. Use a 10cm x 10cm quadrat (or something similar in size) and collect all soil within the quadrat to a depth of 2cm. Take care to sample the entire area to the same depth (unless you hit a rock).
 5. We will need ~100g soil (excluding rocks), so if you don't have enouth soil after one sampling, then collect another location from under the same bush and make a note that the ziplock bag includes soil from two quadrats.
 6. Do Steps 2 through 5 at each ambrosia bush.
 7. For open spaces, guesstimate the geographic center of the open space and repeat Steps 2 through 5.

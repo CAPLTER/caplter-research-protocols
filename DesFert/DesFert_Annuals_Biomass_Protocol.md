@@ -145,4 +145,4 @@ East | MCS | 25 | C2 | Core | DBG | 50 | C1 | West | WTM | 75 | N
 
 ### **Table 3. Updated Plot numbers and treatments.**
 
-![alt text](Images/DesFertTiers.PNG "Figure 2")
+![alt text](Images/DesFertTiers.png "Figure 2")

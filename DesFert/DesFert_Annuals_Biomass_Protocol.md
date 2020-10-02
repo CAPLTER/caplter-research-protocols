@@ -36,7 +36,7 @@ In each DesFert plot, we established 4 "biomass" sub-plots per plot, two in each
 ### **Field Protocol:**
 
 1. Before you go out to the field:
-   1. The 1/2 m quadrats in each subplot are numbered (but **not** marked on the ground) as 1 to 4 - quadrat 1 is north, 2 is east, 3 is south, and 4 is west (see Figure 1). The quadrats are sampled on a rotating basis, such that each quadrat is sampled only once every 4 years (e.g. if quad 1 was sampled last year, quad 2 is sampled this year). Before you go to the field, create a new list showing which quads to sample for each plot, using last year's list as a reference: (NOTE: add new link next meeting)
+   1. The 1/2 m quadrats in each subplot are numbered (but **not** marked on the ground) as 1 to 4 - quadrat 1 is north, 2 is east, 3 is south, and 4 is west (see Figure 1). The quadrats are sampled on a rotating basis, such that each quadrat is sampled only once every 4 years (e.g. if quad 1 was sampled last year, quad 2 is sampled this year). Before you go to the field, create a new list showing which quads to sample for each plot, using last year's list as a reference: Dropbox (ASU)\research\Desfert\annualsCommunityComposition\biomass\samplingSheetsWithData
    2. Pre-label all bags in the lab prior to field work so no plots are missed or mis-labeled. This can also be done in the field if necessary. On each lunch bag, record the date; your name/initials; site (3 letter code); plot number (1 to 75); treatment (C1 - no sampling from C2 plots, Nitrogen [N], Phosphorus [P], and Nitrogen+Phosphorus [NP]); Patch type (PB or IPB) and sub-plot within patch type (1 or 2). See Tables 1 and 2 below for plot numbers and site codes.
       1. Example: Date: 3/17/15; Sampling crew: SJH and KB; LDP; Plot 1 (N); IPB1 *(Note to double check the plot numbers and sub-plot numbers!)*
 2. At the site: Locate the biomass sub-plots within each larger 20m x 20m plot. In each CNDep plot, the biomass sub-plots are marked with 2 pieces of rebar which serve as plot corners - 1 long piece oriented to the north and a shorter piece oriented to the south.
@@ -142,3 +142,7 @@ East | MCS | 22 | N | Core | DBG | 47 | C2 | West | WTM | 72 | C2
 East | MCS | 23 | P | Core | DBG | 48 | NP | West | WTM | 73 | NP
 East | MCS | 24 | C1 | Core | DBG | 49 | N | West | WTM | 74 | P
 East | MCS | 25 | C2 | Core | DBG | 50 | C1 | West | WTM | 75 | N
+
+### **Table 3. Updated Plot numbers and treatments.**
+
+![alt text](Images/DesFertTiers.png "Figure 2")

@@ -10,7 +10,6 @@ Updated August 2020
 ![alt text](Images/Step2.png "Figure 1")
 
 * Agitate the 500ml ISCO bottle and rinse the 125ml AFDM bottle and the 50ml tube for Total P and Total N.  Discard rinse and fill tube.  Fill the Falcon tube to 40ml and fill the 125ml AFDM bottle.
-
 ![alt text](Images/Step3.png "Figure 2")
 
 **Filtering Sample Process**

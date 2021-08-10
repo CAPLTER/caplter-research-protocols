@@ -21,10 +21,10 @@ Updated August 2020
 * Let cool and place in drying oven at 60°C for 30 minutes
 * After 30 minutes, place in desiccator until cool
 * Scrub and rinse used bottles prior to placing bottles in acid (HCl) wash
-* Acid (HCl) wash and rinse all ISOC bottles and caps using DI (deionized) water and place on drying cart
+* Acid (HCl) wash and rinse all ISCO bottles and caps using DI (deionized) water and place on drying cart
 * Once dry cap bottles and place in carousel 
 * Charge 12 volt battery and write charge date on battery using tape and sharpie
-* Check ISOC for any signs of damage or dirt
+* Check ISCO for any signs of damage or dirt
 * Wipe dust and dirt off of ISCO using damp paper towel
 * Print field-lab sheets 
 * Location of Field-Lab sheets Dropbox (ASU)\research\Stormwater\field-lab-sheets\blank_field-lab_sheets 
@@ -58,12 +58,12 @@ Updated August 2020
 ## **Before leaving site, make sure that:**
 
 * Data is downloaded from ISCO
-* ISOC program (Storm1, Storm2, or Storm3) has been select and started
+* ISCO program (Storm1, Storm2, or Storm3) has been select and started
 * ISCO housing is locked
 * Data sheet is filled out as best as possible
 * All samples bottles are labeled (using tape and sharpie) and tightly capped
 * Check that unused bottles are uncapped
-* Top (distributor arm) of ISOC body is seated on bottom (place where bottles are housed) body.  
+* Top (distributor arm) of ISCO body is seated on bottom (place where bottles are housed) body.  
 * Return to lab, place in cold room if not able to process right away
 
 
@@ -76,7 +76,7 @@ Updated August 2020
     * Site 10 SGC (Silverado Golf Course) – green  
     * Site 11(Indian Bend Wash at Curry road) – blue 
 * 11.1.1 refers to IBW (Indian Bend Wash at Curry road) carousel 1, sample 1
-* Agitate ISOC bottle, place conductivity probe in bottle, wait for meter to stabilize and record reading on field/lab data sheet
+* Agitate ISCO bottle, place conductivity probe in bottle, wait for meter to stabilize and record reading on field/lab data sheet
 * Agitate ISCO bottle and pour into sample three(3) tubes; 
     * 15ml tube NH4 (ammonium)
     * 40 ml tube TN/TP (Total Nitrogen and Total Phosphorous)

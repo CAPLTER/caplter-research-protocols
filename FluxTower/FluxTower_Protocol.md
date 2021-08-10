@@ -1,11 +1,12 @@
 # Fieldwork Protocol for CAP-LTER West Phoenix/Maryvale Flux Tower
 
 Prepared by Winston Chow and Thomas J. Volo
-Last Update: August 30, 2014
-Slight update by Sally Wittlinger: May 13, 2020
+Last Update: October 15, 2020
+Updates by: Sally Wittlinger, Quincy Stewart
 
-**Figure 1: The Maryvale/WPHX Eddy Flux Tower**
+
 ![alt text](Images/FluxTower_Fig1.jpeg "Flux Tower")
+**Figure 1: The Maryvale/WPHX Eddy Flux Tower**
 
 
 ### Introduction
@@ -25,7 +26,7 @@ Slight update by Sally Wittlinger: May 13, 2020
 
    * These data are valuable for numerous purposes, which include model validation, time-series analyses of carbon and eddy fluxes etc.
 
-   * The tower has also been listed on the Urban Fluxnet website (http://www.geog.ubc.ca/urbanflux/) along with other urban OPEC sites.
+   * The tower has also been listed on the Urban Fluxnet website (http://www.geog.ubc.ca/urbanflux/).
 
 * The on-site instruments (and their function) can be seen in Table 1; the wiring list for all instruments can be viewed in Appendix A.
 
@@ -47,20 +48,20 @@ Rain gauge (1) | Precipitation | Measures on-site rainfall
 
 
 
-* A total of three dataloggers are used on-site to record and store instrument data; two CR1000s and one CR23X. One CR1000 is for the OPEC sensors, while the other is for the suite of ground sensors (currently not in use). The CR23X programs and records data from the radiometer and the rain gauge. Data from the OPEC CR1000 is collected via a compact flash (CF) card. Data from the other two sensors is sent remotely and automatically to an ftp.
+* A total of three dataloggers are used on-site to record and store instrument data; two CR1000s and one CR23X. One CR1000 is for the OPEC sensors, while the other is for the suite of ground sensors (currently not in use). The CR23X programs and records data from the radiometer and the rain gauge. An additional CR1000 was used to interact with ground sensors. Though still at the site, these sensors and the data logger are no longer in use.
 
 * Power for the tower is obtained from main cables on-site and is linked to an outlet within the datalogger enclosure. A PS100 regulator powers each of the CR23X and the CR1000 with the soil sensors loggers. A standard laptop charger is also connected to a 12V marine/auto battery used to initiate the infra-red gas analyzer (IRGA) and power the OPEC sensors and their CR1000 datalogger (see LI-COR operator manual for more details).
 
 
 ### Maintenance
 
-* For those new to OPEC, I **strongly encourage** the operator to attend an OPEC course for familiarization with the instrumentation and protocols involved. I suggest either the Campbell Scientific OPEC operator workshop held at its HQ in Logan, Utah (http://www.campbellsci.com/training), or a two week summer workshop organized by FLUXNET on a periodic basis (http://fluxney.ornl.gov/meetings-workshops).
+* Operators are encouraged to attend an OPEC course for familiarization with the instrumentation and protocols involved. Suggested courses include theCampbell Scientific OPEC operator workshop (http://www.campbellsci.com/training) or two-week summer workshop organized by FLUXNET (http://fluxney.ornl.gov/meetings-workshops).
 
-* If not, at the very least, he/she should be well-versed in using the OPEC operator manual (http://s.campbellsci.com/documents/us/manuals/opecsystem.pdf), using the CSI LoggerNet program, as well as the manuals for each instrument (https://www.campbellsci.com/manuals) for more information in order to troubleshoot any issues.
+* Operators should be well-versed in using the OPEC operator manual (http://s.campbellsci.com/documents/us/manuals/opecsystem.pdf), using the CSI LoggerNet program, as well as the manuals for each instrument (https://www.campbellsci.com/manuals) to troubleshoot any issues.
 
 * All hardware (e.g. tower winching tool), tools (e.g. screwdrivers, wrenches, Allen keys, wire cutters, chalk bag, inclinometer, tape measure etc.), carrying cases (for the sonic anemometer, infra-red gas analyzer, net radiometer etc.), climbing equipment (harness, quick draws, karabiners, gloves, helmet) and tower-specific fieldwork tools are in the CAP-LTER lab in Glodwater Center (GWC681) on the ASU Tempe Campus.
 
-* Please contact Quincy Stewart (Quincy.Stewart@asu.edu) or Zhihua Wang (zhwang@asu.edu) if you have further issues with any of the tower instruments.
+* Please contact Quincy Stewart (Quincy.Stewart@asu.edu) or Zhihua Wang (zhwang@asu.edu) if you have issues with any of the tower instruments.
 
 
 ### Monthly Maintenance and Data Retrieval
@@ -73,17 +74,18 @@ Rain gauge (1) | Precipitation | Measures on-site rainfall
 
    * If the marine battery is much below 12 volts (~9V or less), the IRGA chopper will NOT work and will be flagged. There is a spare CAP-LTER marine battery stored in GWC681. Three have been problems in the past due to an insufficient power supply, particularly as the power requirements of the IRGA increase with higher temperature. A standard laptop charger was installed to provide more power (5A @ 12V) than the previous setup, which included a PS100 charging regulator (only 1A @ 12V). The charger is not necessarily rated for outdoor use, but power has been consistently high enough to keep the IRGA running.
 
+### Data retrieval
 * Retrieve 10Hz data from CR1000 through NL 115 memory card port.   
 
 1. Press and hold the white button on the NL 115. Once the light turns green, unscrew the port door and push the black eject button to remove the memory card. Insert an empty memory card and close the door.
 
    * Raw data are in TOB3 (i.e. binary) format, and need to be converted to other formats through LoggerNet.   
    * The CF cards are industrial grade to withstand temperatures up to 85&deg; C; regular grade CF cards will not work at the site. In fact, the only CF cards that will work are those sold by Campbell Scientific.   
-   * I suggest that data transfer for the eddy flux data be done at the lab due to the time taken for data conversion to TOB1 format.
+   * Data transfer for the eddy flux data is to be done at the lab due to the time taken for data conversion to TOB1 format.
 
-2. <mark>For data conversion, attach the USB multi-card reader to laptop and insert card. Open the CConvert button in LoggerNet. There should be two different files: one with 30min block averaged data, the other much larger file with 10Hz data. Click on "Start Conversion" to initiate the process. Several weeks of data can take 30-45 minutes to convert.</mark>
+2. <mark>For data conversion, connect the USB multi-card reader to the computer and insert card. Open the CConvert button in LoggerNet. There should be two different files: one with 30min block averaged data, the other much larger file with 10Hz data. Click on "Start Conversion" to initiate the process.</mark>
 
-3. Once the TOB1 files can be seen on the laptop, fully delete the files from the card. The card can now be used in the NL 115 again. Be sure to eject the drive before removing either the card or the card reader!!
+3. Once the TOB1 files can be seen, fully delete the files from the card. The card can now be used in the NL 115 again. Be sure to eject the drive before removing either the card or the card reader!!
 
 
 ### Removing IRGA (LI-COP 7500) for Calibration in the Lab
@@ -92,32 +94,36 @@ Rain gauge (1) | Precipitation | Measures on-site rainfall
 
 * Take note of the orientation of each instrument on the tower in Figure 2. Removing (and installing) each sensor from the tower is a complicated process which requires much care due to the precarious nature of this fieldwork, combined with the cost of the equipment and the tower:
 
-1. The operator should attend the ASU Fall Safety course prior to climbing the tower. Sign up for EHS Fall Protection - Safety at Heights through ASU Career EDGE.
+    1. The operator should attend the ASU Fall Safety course prior to climbing the tower. Sign up for EHS Fall Protection - Safety at Heights through ASU Career EDGE.
 
-2. Remember to bring all the necessary fieldwork items and carrying cases prior to departure, and I recommend leaving for the site as early as possible (especially in summer). CAP-LTER field safety protocols also apply.
+    2. Remember to bring all the necessary fieldwork items and carrying cases prior to departure.
 
-**Figure 2: The instrumentation at the top of the tower**
+
 ![alt text](Images/FluxTower_Fig2.PNG "Top of Flux Tower")
+**Figure 2: The instrumentation at the top of the tower**
 
-3. To lower the tower, first remove the cables from the Velcro strip at the base of the tower. Locate the winching mechanism on the NW corner of the tower. Remove the nut and insert the winching arm into the mount; rotate counter-clockwise (cable out) to lower and clockwise (cable in) to raise the tower.
+    3. To lower the tower: 
+        1. Remove the cables from the Velcro strip at the base of the tower 
+        2. Locate the winching mechanism on the SNW corner of the tower
+        3. Remove the nut and insert the winching arm into the mount
+        4. Rotate counter-clockwise (cable out) to lower and clockwise (cable in) to raise the tower
+            1. DO NOT LOWER TOWER BELOW 40 FEET AS IT WILL DAMAGE THE INSTRUMENT BOXES MOUNTED ON THE TOWER. There are clear duct tap markings on the tower base to indicate where the tower's inner section should be at 40 feet.
 
-   1. DO NOT LOWER TOWER BELOW 40 FEET AS IT WILL DAMAGE THE INSTRUMENT BOXES MOUNTED ON THE TOWER. There are clear duct tap markings on the tower base to indicate where the tower's inner section should be at 40 feet.
+    4. You will need to bring with you up the tower: a small bag for easy access to tools and hardware storage (chalk bag); quick-draws on your harness to secure yourself to the tower; a 1/2-inch wrench; a karabiner or large bag to carry down the IRGA interface box; a small backpack for the IRGA; Allen wrenches; a cloth and either water or Windex (or some other cleaner) to clean the net radiometer.
 
-4. You will need to bring with you up the tower: a small bag for easy access to tools and hardware storage (chalk bag); quick-draws on your harness to secure yourself to the tower; a 1/2-inch wrench; a karabiner or large bag to carry down the IRGA interface box; a small backpack for the IRGA; Allen wrenches (the middle one in the set in the toolbox, but I usually bring up the whole set because it's easier to grab in the bag); a cloth and either water or Windex (or some other cleaner) to clean the net radiometer.
+    5. Use the Allen wrench to remove the IRGA's Nu-Rail assembly from the boom arm. Place the IRGA in the backpack, then remove the cable from it by pulling firmly.
 
-5. Use the Allen wrench to remove the IRGA's Nu-Rail assembly from the boom arm. Place the IRGA in the backpack, then remove the cable from it by pulling firmly.
+    6. Take the opportunity to clean all four windows of the net radiometer.
 
-6. Take the opportunity to clean all four windows of the net radiometer.
+    7. Remove the SDM and power cables from the IRGA interface box and let them dangle from the Hub. The only cable attached to the box should be the one you already unplugged from the sensor head in step 4. Remove the IRGA interface box with the 1/2-inch wrench. Loosen the two upper U-bolts first, then remove one, but resecure the U-bolt to the box without attaching it to the tower. Use a karabiner to hand that U-bolt from a tower strut. After removing the other two U-bolts and allowing the box to hang from the strut via the karabiner, you can then easily transfer the box frmo the strut to a loop on your harness via the karabiner.
 
-7. Remove the SDM and power cables from the IRGA interface box and let them dangle from the Hub. The only cable attached to the box should be the one you already unplugged from the sensor head in step 4. Remove the IRGA interface box with the 1/2-inch wrench. Loosen the two upper U-bolts first, then remove one, but resecure the U-bolt to the box without attaching it to the tower. Use a karabiner to hand that U-bolt from a tower strut. After removing the other two U-bolts and allowing the box to hang from the strut via the karabiner, you can then easily transfer the box frmo the strut to a loop on your harness via the karabiner.
+    8. Place the IRGA in its carrier case for transport back to campus. THe calibration process requires the IRGA, the interface box, the cable between them, and a power cable. We have purchased an additional power cable to avoid disconnecting it from the Hub for calibration. Be sure to take the winch handle with you whenever you leave the tower!
 
-8. Place the IRGA in its carrier case for transport back to campus. THe calibration process requires the IRGA, the interface box, the cable between them, and a power cable. We have purchased an additional power cable to avoid disconnecting it from the Hub for calibration. Be sure to take the winch handle with you whenever you leave the tower!
+    9. To reinstall, reverse steps 5 and 7 above. The IRGA should be installed ~40cm from the CSAT, at an angle of ~30&deg; from the vertical to allow water to drip from the sensor windows.
 
-9. To reinstall, reverse steps 5 and 7 above. The IRGA should be installed ~40cm from the CSAT, at an angle of ~30&deg; from the vertical to allow water to drip from the sensor windows.
+    10. On the ground, connect the laptop to the CR1000 using the RS-232 cable with USB adaptor. In LoggerNet, click on the "Connect" icon and "Connect" to the "CR1000". Check the Numeric Display #1 to make sure data values are shown (no NAN's) and all flags show "false".
 
-10. On the ground, connect the laptop to the CR1000 using the RS-232 cable with USB adaptor. In LoggerNet, click on the "Connect" icon and "Connect" to the "CR1000". Check the Numeric Display #1 to make sure data values are shown (no NAN's) and all flags show "false".
-
-11. Once everything looks good, extend the tower to its full height (72 ft). You should hear a ratcheting sound while turning the winch. Ensure that the cables are not stuck on obstructions while raising the tower. The cables from the CSAT box to the hub should be on the south side of the tower to help avoid obstructions. The height of instruments can be checked with an inclinometer, a tape measure, and a bit of basic trigonometry. Secure all five cables (2 to the Hub, 2 to the radiometer, 1 to the T/RH probe) to the base of the tower with the Velcro strip.
+    11. Once everything looks good, extend the tower to its full height (72 ft). You should hear a ratcheting sound while turning the winch. Ensure that the cables are not stuck on obstructions while raising the tower. The cables from the CSAT box to the hub should be on the south side of the tower to help avoid obstructions. The height of instruments can be checked with an inclinometer, a tape measure, and a bit of basic trigonometry. Secure all five cables (2 to the Hub, 2 to the radiometer, 1 to the T/RH probe) to the base of the tower with the Velcro strip.
 
 * Generally, re-installation takes more time than instrument removal due to the additional attention needed to install each sensor. Do fact the additional time needed (~1 hour) in your fieldwork plans.
 

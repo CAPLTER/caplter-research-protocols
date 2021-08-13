@@ -6,7 +6,7 @@ Revised August 12, 2021
 Note: use clean forceps and/or wear nitrile gloves to handle aluminum weight boats and filters. Use Whatman GF/F 47mm glass microfiber filters. Thaw samples the night before if frozen.
 
 
-1. Set up filter apparatus and gather together your pre-ashed filters in their weigh boats. Ash filters by placing them in a covered watch glass, then in a cold muffle furnace set at 550 deg C for 4 hours. (Ash filters by placing them in a covered watch glass, then in a cold muffle furnace set at 550°C for 4 hours.  Store in the drying oven at 100°C for at least 30 minutes or until needed.  Remove to desiccator and allow to cool before weighing filters).  Note: make sure desiccant is fresh.  Spent desiccant can be recharged by baking in the drying oven at 100°C for 2 hours.
+1. Set up filter apparatus and gather together your pre-ashed filters in their weigh boats. (Ash filters by placing them in a covered watch glass, then in a cold muffle furnace set at 550°C for 4 hours.  Store in the drying oven at 100°C for at least 30 minutes or until needed.  Remove to desiccator and allow to cool before weighing filters).  Note: make sure desiccant is fresh.  Spent desiccant can be recharged by baking in the drying oven at 100°C for 2 hours.
 
 2. Weigh your filters and record.
 

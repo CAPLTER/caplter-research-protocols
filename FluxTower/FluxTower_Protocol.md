@@ -6,6 +6,7 @@ Updates by: Sally Wittlinger, Quincy Stewart
 
 
 ![alt text](Images/FluxTower_Fig1.jpeg "Flux Tower")
+
 **Figure 1: The Maryvale/WPHX Eddy Flux Tower**
 
 

@@ -8,7 +8,7 @@ Upon returning from the field, remove the buckets from garbage bags and wipe any
 
 Wearing nitrile gloves, open the dry bucket and remove any contamination (insects, bird droppings, etc.) with 10% HCl-washed and nanopure-rinsed forceps. Ensure contaminants are noted on the field datasheet.  
 
-Using a nanopure water-rinsed 500mL graduated cylinder, add 500mL of nanopure water to the bucket.  
+Using a Nanopure-rinsed 500mL graduated cylinder, add 500mL of nanopure water to the bucket.  
 
 With the lid off, swirl the water around the inside of the bucket as high as possible without any risk of spillage. Rest the lid loosely on top of the bucket (do not push lid down).  
 
@@ -32,44 +32,42 @@ Place the tubes in a tube rack labeled with the date and "ADP-N", then store the
 
 ### **For Dissolved Organic Carbon (DOC) analysis:**
 
-Using a clean, nanopure water-rinsed 25mm filter apparatus with an ashed GF/F 25mm filter, filter a small amount of sample (~5mL) to rinse and then discard.  
+Using a clean, Nanopure-rinsed 25mm filter apparatus with an ashed GF/F 25mm filter, filter a small amount of sample (~5mL) to rinse and then discard.  
 
-Filter ~30mL of sample.  
+Label a 40 mL glass DOC vial with ‘ADP’, ‘site-D’ (for dry collection; ‘site-W’ for wet), and the date.  
 
-Record the DOC vial number on the field datasheet.  
-
-Rinse the vial with ~3mL of the filtered sample. Discard the rinse and then fill the DOC vial with the remaining filtrate.  
+Filter ~50 ml of sample. Rinse the vial with filtered sample, then discard the rinse and fill the DOC vial with the remaining filtrate until almost full.  
 
 Rinse the filter apparatus with nanopure before beginning the next sample.  
 
 Acidify each sample with 2 drops of concentrated HCl.  
 
-Place the samples in a tube rack labeled with the date and "ADP DOC-Acidified" on a strip of tape, then store the tubes in the cold room in GWC 675 until the samples can be run (preferably within 24hr).
+Place the samples in a tube rack labeled with the date and "ADP DOC-Acidified" on a strip of tape, then store the vials in the cold room in GWC 675 until the samples can be run (preferably within 24hr).
 
 
 ### **For anion and cation analysis:**
 
-Label two sterile 50mL Falcon tubes with "ADP", "site-D" (for dry collection, "site-W" for wet), and "anions" or "cations" (one of each).  
+Label two sterile 50mL centrifuge tubes with "ADP", "site-D" (for dry collection, "site-W" for wet), and "anions" or "cations" (one of each).  
 
-Using a clean, nanopure water-rinsed 47mm filter apparatus with a Supor-450 47mm membrane filter, filter a small amount of sample (~15mL) to rinse and then discard.  
+Using a clean, Nanopure-rinsed 47mm filter apparatus with a Supor-450 47mm membrane filter, filter a small amount of sample (~15mL) to rinse and then discard.  
 
-Filter enough of the remaining sample to rinse and fill the two 50mL Falcon tubes.  
+Filter enough of the remaining sample to rinse and fill the two 50mL centrifuge tubes.  
 
-Fill the anion tube with filtrate, then cap. The Falcon tubes are sterile so do not need to be rinsed with sample prior to filling.  
+Fill the anion tube with filtrate, then cap. The centrifuge tubes are sterile so do not need to be rinsed with sample prior to filling.  
 
 Repeat with the cation tube.  
 
-Rinse the filter apparatus with nanopure water before beginning the next sample.  
+Rinse the filter apparatus with Nanopure before beginning the next sample.  
 
-Place the anion samples in a Styrofoam tube holder labeled with the date and "ADP Anions" on a strip of tape, then store the tubes in the cold room in GWC 675 until samples can be run (preferably within 24-48 hours of collection for reactive species).  
+Place the anion samples in a Styrofoam tube holder labeled with the date and "ADP Anions" on a strip of tape, then store the tubes in the cold room in the freezer in GWC669 until samples can be run (preferably within 24-48 hours of collection for reactive species).  
 
 Place the cation samples in a Styrofoam tube holder labeled with the date and "ADP Cations-Acidified" on a strip of tape and then acidify the cation samples as follows:
 
-* Place an empty 50mL Falcon tube on the balance and tare.
-* Weigh the cation Falcon tube on the tared balance and record the sample weight (in grams) on the datasheet.
-* Multiply the weight by 7.144. The result equals the amount (in microliters) of ultrapure HNO<sub>3</sub> to add. Record this volume on the datasheet.
-* Under the hood, use the adjustable pipette designated for acids to add the acid to the samples.
-* Once acidified, the samples are stored on the shelf in the storage room in GWC 681.
+* Place an empty 50mL centrifuge tube on the balance and tare.
+* Weigh the cation centrifuge tube on the tared balance and record the sample weight (in grams) on the datasheet.
+* Multiply the weight by 20. The result equals the amount (in microliters) of trace metal grade nitric acid to add. Record this volume on the datasheet.
+* Under the hood, use an adjustable pipette with a filtered pipette tip to add the acid to the samples.
+* Once acidified, the samples are stored on the bench in the storage room in GWC 681.
 
 
 ## **Wet collection:**

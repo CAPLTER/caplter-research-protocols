@@ -1,6 +1,6 @@
 # ** Core Birding Point Count Protocol**
 
-Revised December 2019
+Revised 2022-01-13
 
 
 ## **Point Counts**
@@ -16,7 +16,7 @@ A point count consists of one person standing in a specific location for a fixed
 
 ## **Additional Observers**
 
-The primary observer may be accompanied to the point by an additional observer when required for safety reasons; however, *only the observations of the primary observer should be recorded on the datasheet*. To avoid any bias that would invalidate the data collected, the secondary observer should not verbalize, point out birds, or give any non-verbal cues to the primary observer (e.g., looking at a bird with binoculars is a non-verbal cue). The secondary observer should position him/herself to minimize disturbance to birds as well as to the primary observer. Ideally, the secondary observer will stand near the primary observer (so the secondary observer doesn't prevent birds from coming near the primary observer). The observer should sit down or stand so that he/she does not obstruct the primary observer's views.
+The primary observer may be accompanied to the point by an additional observer when required for safety reasons; however, *only the observations of the primary observer should be recorded on the datasheet*. To avoid any bias that would invalidate the data collected, the secondary observer should not verbalize, point out birds, or give any non-verbal cues to the primary observer (e.g., looking at a bird with binoculars is a non-verbal cue). The secondary observer should position him/herself to minimize disturbance to birds as well as to the primary observer. Ideally, the secondary observer will stand near the primary observer (so the secondary observer does not prevent birds from coming near the primary observer). The observer should sit down or stand so that he/she does not obstruct the primary observer's views.
 
 * Please note in the *"Site Condition"* section of the datasheet if an additional observer was present during the count.
 
@@ -87,6 +87,8 @@ The primary observer may be accompanied to the point by an additional observer w
 
 * Swallows, martins, and swifts are aerial birds that forage on the wing. If the birds appear to be foraging during the count, they should be counted and recorded in an appropriate distance bin. The observer should drop an imaginary "plumb bob" from the bird (or center of the flock) to the ground. The perpendicular distance can be measured from observer to the point the "plumb bob" touches the ground. Remember, record the distance at which the bird(s) was first observed. Birds that are just passing through, are recorded as a FT (see below).
 
+* The number of birds, whether seen, heard, or both, should always be estimated so be sure that you enter a count on each line of the datasheet.
+
 ### *Fly-Through (FT)*
 
 * If birds are seen flying through the count area and not observed taking off or landing, record them in the "FT" column only, not in the distance columns.
@@ -136,4 +138,4 @@ The primary observer may be accompanied to the point by an additional observer w
 
 * All completed datasheets (diligently reviewed for bird code errors) must be returned to ASU **within one week** of the last survey completed during that season.
 
-* Report any problems (i.e., site access issues, road closures, safety concerns (e.g., stray dogs, transients, etc.), interesting occurrences, scheduling issues, etc.) to the group by email, using the email string started at the beginning of the season and "replying all". Be sure to let the CAP Site Manager know if you weren't able to survey a site.
+* Report any problems (i.e., site access issues, road closures, safety concerns (e.g., stray dogs, transients, etc.), interesting occurrences, scheduling issues, etc.) to the group by email, using the email string started at the beginning of the season and "replying all". Be sure to let the CAP Site Manager know if you were not able to survey a site.

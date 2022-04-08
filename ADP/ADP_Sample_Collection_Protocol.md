@@ -119,3 +119,4 @@ If the collector fails to operate, try the following:
    * The temperature of the sensor plate is HOT when the collector is in the "dry" collection state.
 
 All of these conditions indicate that one of the mercury wetted switches within the motor is faulty. Unfortunately, Aerochem Metrics, the company that manufactured the ADP collectors, no longer exists and collectors of this type are no longer made. The only remedy is to remove the motor, which comes off as a unit, and replace it with a spare. If no spares are available, then it may be necessary to purchase the new-type collector manufactured by N-CON Systems [here](http://www.n-con.com/Products/ads.html).
+

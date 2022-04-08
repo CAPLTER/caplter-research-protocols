@@ -34,3 +34,4 @@ Updated July 2020
 * Place a clean lid on top of the bucket and set aside for 7 days to leach.
 * After 7 days, clean the bucket/lid again as described under "Rinsing".
 * Weigh the bucket/lid with the 12kg balance in GWC 681, recording the ID and weight with a Sharpie twice on the side and once on the bottom of the bucket/twice on the side and once on the top of the lid.
+

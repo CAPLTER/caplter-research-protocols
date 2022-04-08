@@ -103,3 +103,4 @@ Ensure an adequate supply of ashed 25mm GF/F filters (4hr in muffle furnace at 5
 Filters can be removed from the furnace the following day.
 
 Note: Bulk Samples - If dry buckets have collected rainwater due to a collector malfunction, process this water as a bulk sample (see ADP Sample Collection Protocol). Add the water from the wet bucket to the dry bucket, then weigh and process as a wet bucket EXCEPT swirl the sample as you would a dry bucket before proceeding.
+

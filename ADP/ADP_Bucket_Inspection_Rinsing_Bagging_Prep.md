@@ -1,6 +1,6 @@
 # **ADP Bucket Inspection/Rinsing, Bagging and New Bucket Prep**
 
-Updated July 2020  
+Updated July 2020
 
 ### **Inspection:**
 

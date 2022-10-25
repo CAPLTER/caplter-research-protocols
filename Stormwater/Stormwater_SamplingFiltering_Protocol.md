@@ -15,7 +15,7 @@ Updated August 2021
 
 **Filtering Sample Process**
 * Place a pre-ashed Whatman 47mm GF/F filter in the filtering apparatus and rinse filter with a small amount of sample.   Rinse the Erlenmyer flask by swirling the filtrate around and discarding the filtrate into the storm-water waste container.  
-![alt text](Images/Step4.png "Figure 3")
+![alt text](/Stormwater/Images/revised_step4.png "Figure 3")
 
 * Filter remaining sample (using a small amount to rinse DOC vials).   Use remaining filtrate to fill 50mL centrifuge tubes for the Cations, Anions and DOC vial.  
 ![alt text](Images/Step5.png "Figure 4")

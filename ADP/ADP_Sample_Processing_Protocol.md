@@ -1,6 +1,6 @@
 # **ADP Sample Processing Protocol**
 
-Updated July 2020
+Updated October 2022
 
 Upon returning from the field, remove the buckets from garbage bags and wipe any soil/debris off the top, bottom, and sides of each bucket. When necessary, buckets can be left in the cold room for up to a week before weighing.
 
@@ -27,7 +27,7 @@ Rinse the tube with a small amount of sample and then fill and cap.
 
 Centrifuge at 8000rpm for 10min (make sure rotor is balanced).
 
-Place the tubes in a tube rack labeled with the date and "ADP-N", then store the tubes in the freezer in GWC 630 for analysis on the Lachat flow-injection analyzer.
+Place the tubes in a tube rack labeled with the date and "ADP-N", then store the tubes in the freezer in GWC 639 for analysis on the Lachat flow-injection analyzer.
 
 
 ### **For Dissolved Organic Carbon (DOC) analysis:**
@@ -42,7 +42,7 @@ Rinse the filter apparatus with nanopure before beginning the next sample.
 
 Acidify each sample with 2 drops of concentrated HCl.
 
-Place the samples in a tube rack labeled with the date and "ADP DOC-Acidified" on a strip of tape, then store the vials in the cold room in GWC 675 until the samples can be run (preferably within 24hr).
+Place the samples in a tube rack labeled with the date and "ADP DOC-HCl" on a strip of tape, then store the vials in the cold room in GWC 675 until the samples can be run.
 
 
 ### **For anion and cation analysis:**
@@ -51,15 +51,15 @@ Label two sterile 50mL centrifuge tubes with "ADP", "site-D" (for dry collection
 
 Using a clean, Nanopure-rinsed 47mm filter apparatus with a Supor-450 47mm membrane filter, filter a small amount of sample (~15mL) to rinse and then discard.
 
-Filter enough of the remaining sample to rinse and fill the two 50mL centrifuge tubes.
+Filter enough of the remaining sample to fill the two 50mL centrifuge tubes.
 
-Fill the anion tube with filtrate, then cap. The centrifuge tubes are sterile so do not need to be rinsed with sample prior to filling.
+Fill the anion tube with ~30ml filtrate, then cap. The centrifuge tubes are sterile so do not need to be rinsed with sample prior to filling.
 
 Repeat with the cation tube.
 
 Rinse the filter apparatus with Nanopure before beginning the next sample.
 
-Place the anion samples in a Styrofoam tube holder labeled with the date and "ADP Anions" on a strip of tape, then store the tubes in the cold room in the freezer in GWC669 until samples can be run (preferably within 24-48 hours of collection for reactive species).
+Place the anion samples in a Styrofoam tube holder labeled with the date and "ADP Anions" on a strip of tape, then store the tubes in the cold room in the freezer in GWC639 until samples can be run (preferably within 24-48 hours of collection for reactive species).
 
 Place the cation samples in a Styrofoam tube holder labeled with the date and "ADP Cations-Acidified" on a strip of tape and then acidify the cation samples as follows:
 
@@ -74,7 +74,7 @@ Place the cation samples in a Styrofoam tube holder labeled with the date and "A
 
 Notes:
 
-If there is less than ~10mL of sample in the wet bucket, note this on the datasheet and do not process the sample. If the sample bottle volume is limited (i.e., 10 < 140mL) or lost, note the unprocessed subsamples on the field datasheet.
+If there is less than ~10mL of sample in the wet bucket, note this on the datasheet and do not process the sample. If the sample bottle volume is limited (i.e., 10 < 155mL) or lost, note the unprocessed subsamples on the field datasheet.
 
 In cases when there is not enough rain to complete all of the analyses, the sampling priority is as follows: ammonium/nitrate, DOC, anions, cations, pH. See the following table for volume requirements for each analysis:
 

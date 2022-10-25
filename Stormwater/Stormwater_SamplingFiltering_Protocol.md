@@ -10,7 +10,6 @@ Updated August 2021
 ![alt text](Images/Step2.png "Figure 1")
 
 * Agitate the 500ml ISCO bottle and rinse the 125ml AFDM bottle.  Discard rinse and fill bottle.  Fill the Total Nitrogen/Total Phosphorus centrifuge tube to ~40ml.
-
 ![alt text](Images/Step3.png "Figure 2")
 
 **Filtering Sample Process**

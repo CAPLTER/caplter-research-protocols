@@ -42,7 +42,7 @@ Rinse the filter apparatus with nanopure before beginning the next sample.
 
 Acidify each sample with 2 drops of concentrated HCl.
 
-Place the samples in a tube rack labeled with the date and "ADP DOC-HCl" on a strip of tape, then store the vials in the cold room in GWC 675 until the samples can be run.
+Place the samples in a tube rack labeled with the date and "ADP DOC-HCl Acidified" on a strip of tape, then store the vials in the cold room in GWC 675 until the samples can be run.
 
 
 ### **For anion and cation analysis:**
@@ -74,7 +74,7 @@ Place the cation samples in a Styrofoam tube holder labeled with the date and "A
 
 Notes:
 
-If there is less than ~10mL of sample in the wet bucket, note this on the datasheet and do not process the sample. If the sample bottle volume is limited (i.e., 10 < 155mL) or lost, note the unprocessed subsamples on the field datasheet.
+If there is less than ~10mL of sample in the wet bucket, note this on the datasheet and do not process the sample. If the sample bottle volume is limited (i.e. 10 < 155mL) or lost, note the unprocessed subsamples on the field datasheet.
 
 In cases when there is not enough rain to complete all of the analyses, the sampling priority is as follows: ammonium/nitrate, DOC, anions, cations, pH. See the following table for volume requirements for each analysis:
 

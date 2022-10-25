@@ -1,6 +1,6 @@
 # **Stormwater Ash Free Dry Mass (AFDM) Protocol**
 
-Revised August 12, 2021
+Revised October 2022
 
 
 Note: use clean forceps and/or wear nitrile gloves to handle aluminum weight boats and filters. Use Whatman GF/F 47mm glass microfiber filters. Thaw samples the night before if frozen.

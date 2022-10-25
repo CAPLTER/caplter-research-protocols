@@ -6,7 +6,7 @@ Revised August 12, 2021
 Note: use clean forceps and/or wear nitrile gloves to handle aluminum weight boats and filters. Use Whatman GF/F 47mm glass microfiber filters. Thaw samples the night before if frozen.
 
 
-1. Set up filter apparatus and gather together your pre-ashed filters in their weigh boats. (Ash filters by placing them in a covered watch glass, then in a cold muffle furnace set at 550°C for 4 hours.  Store in the drying oven at 100°C for at least 30 minutes or until needed.  Remove to desiccator and allow to cool before weighing filters).  Note: make sure desiccant is fresh.  Spent desiccant can be recharged by baking in the drying oven at 100°C for 2 hours.
+1. Set up filter apparatus and gather together your pre-ashed filters in their weigh boats. (Ash filters by placing them in a covered watch glass, then in a cold muffle furnace set at 500°C for 4 hours.  Store in the drying oven at 100°C for at least 30 minutes or until needed.  Remove to desiccator and allow to cool before weighing filters).  Note: make sure desiccant is fresh.  Spent desiccant can be recharged by baking in the drying oven at 100°C for 2 hours.
 
 2. Weigh your filters and record.
 
@@ -24,7 +24,7 @@ Note: use clean forceps and/or wear nitrile gloves to handle aluminum weight boa
 
 7. Remove boat and filter from drying oven and cool in desiccator. Tare the weigh boat while holding the filter with forceps. Reweigh filter and record (see step 2). The difference between the original weight and the new weight is the weight of the dry filter + residue before ignition.
 
-8. Place filter and boat into a cold muffle furnace and set the temperature to 550 deg C. Allow ample to ash for 4 hours. The sample needs to ash for 3 hours, but you are adding an hour to allow the furnace to come to temperature.
+8. Place filter and boat into a cold muffle furnace and set the temperature to 500°C. Allow ample to ash for 4 hours. The sample needs to ash for 3 hours, but you are adding an hour to allow the furnace to come to temperature.
 
 9. Turn off furnace and let cool down. Carefully remove filters with boats from the furnace and place in the drying oven for at least 30 minutes, then place in the desiccator to cool. Reweigh (same as 2) and record the new weight. This is the weight of the filter + residue after ignition. Once this weight is recorded, the filter may be discarded.
 

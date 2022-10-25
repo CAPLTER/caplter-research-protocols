@@ -1,4 +1,5 @@
 # **Eureka MANTA+35 Datasonde Sensor Calibration**
+Updated: October, 2022
 
 ## **Preparation for Calibrations**
 
@@ -12,7 +13,7 @@
 
 * Logging must be turned OFF to calibrate. Use storage cup for calibrations, can use reverse side of cap (sealed, but not screwed on) for rinses.
 
-* Calibration standards may be salvaged for reuse as rinse solution ONLY for next month's calibration (We generally do this for turbidity standard only but can also do with Rhodamine for chlorophyll calibration). Do not reuse for actual calibration.
+* Calibration standards may be salvaged for reuse as rinse solution ONLY for next month's calibration (We generally do this for turbidity 100 NTU standard, Rhodamine, and PTSA). Do not reuse for actual calibration.
 
 * Make sure all waste is in appropriate container and properly labeled.
 
@@ -21,9 +22,13 @@
 
 ## **Following Calibrations**
 
+* Sync the internal date/time on the Manta with that on the laptop.
+
+* Create a new data log named YYMMDD_TTL_data, using today's date. Set logging interval to 20 min.  Be sure to START LOGGING. 
+
 * Before returning to field, install new batteries (Note: the two battery tubes have opposite orientation).
 
-* Create a new data log named YYMMDD_TTL_data, using today's date. Be sure to START LOGGING. After disconnecting the cable between Manta and computer, five red flashes on the Mata indicate that the logging is on; following the red flashes, there will be one yellow flash for each battery volt > 5.
+* After disconnecting the cable between Manta and computer, five red flashes on the Mata indicate that the logging is on; following the red flashes, there will be one yellow flash for each battery volt > 5.
 
 
 ## **Calibrations**
@@ -141,7 +146,7 @@
 
 6. Chlorophyll *a* calibration (with Rhodamine standard)
 
-   1. Chlorophyll calibration is a two point calibration, 0 and 40.
+   1. Chlorophyll calibration is a two point calibration, 0 and 400.
 
    2. Screw storage cap on to datasonde, cover with cap and rinse sensor well two times using DI water.
 
@@ -151,7 +156,7 @@
 
    5. Software &rarr; Manta2 &rarr; Calibrate &rarr; chlorophyll *a* (&mu;g/L).
 
-   6. Slope calibration &rarr; input 40, enter.
+   6. Slope calibration &rarr; input 400, enter.
 
    7. Wait until graph stabilizes, press enter, accept (Yes).
 

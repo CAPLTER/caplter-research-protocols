@@ -79,7 +79,7 @@ If there is less than ~10mL of sample in the wet bucket, note this on the datash
 In cases when there is not enough rain to complete all of the analyses, the sampling priority is as follows: ammonium/nitrate, DOC, anions, cations, pH. See the following table for volume requirements for each analysis:
 
 **Figure 1: Wet bucket sample processing matrix.**
-![alt text](Images/ADP_Sample_Processing_Fig1.PNG "Figure 1")
+![alt text](Images/ADP_Sample_Processing_Fig2.PNG "Figure 1")
 
 Remove the wet collection bucket from the garbage bag and wipe any soil/debris off the top, bottom, and sides of each bucket.
 

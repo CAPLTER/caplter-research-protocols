@@ -34,7 +34,7 @@ Place the tubes in a tube rack labeled with the date and "ADP-N", then store the
 
 Using a clean, Nanopure-rinsed 25mm filter apparatus with an ashed GF/F 25mm filter, filter a small amount of sample (~5mL) to rinse and then discard.
 
-Label a 40 mL glass DOC vial with ‘ADP’, ‘site-D’ (for dry collection; ‘site-W’ for wet), and the date.
+Label a 40 mL glass DOC vial with ‘ADP’, 'site-D' (for dry collection; ‘site-W’ for wet), and the date.
 
 Filter ~50 ml of sample. Rinse the vial with filtered sample, then discard the rinse and fill the DOC vial with the remaining filtrate until almost full.
 

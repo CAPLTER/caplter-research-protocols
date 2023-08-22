@@ -1,5 +1,5 @@
 # **Eureka MANTA+35 Datasonde Sensor Calibration**
-Updated: October, 2022
+Updated: August 21, 2023
 
 ## **Preparation for Calibrations**
 
@@ -13,7 +13,7 @@ Updated: October, 2022
 
 * Logging must be turned OFF to calibrate. Use storage cup for calibrations, can use reverse side of cap (sealed, but not screwed on) for rinses.
 
-* Calibration standards may be salvaged for reuse as rinse solution ONLY for next month's calibration (We generally do this for turbidity 100 NTU standard, Rhodamine, and PTSA). Do not reuse for actual calibration.
+* Calibration standards may be salvaged for reuse as rinse solution ONLY for next month's calibration (We generally do this for turbidity 100 NTU standard). Do not reuse for actual calibration.
 
 * Make sure all waste is in appropriate container and properly labeled.
 
@@ -144,37 +144,9 @@ Updated: October, 2022
    10. Sensor response factor should be as close to 100 as possible.
 
 
-6. Chlorophyll *a* calibration (with Rhodamine standard)
-
-   1. Chlorophyll calibration is a two point calibration, 0 and 400.
-
-   2. Screw storage cap on to datasonde, cover with cap and rinse sensor well two times using DI water.
-
-   3. Add small amount of chlorophyll standard to cup and rinse, repeat rinse (2 rinses).
-
-   4. Add enough chlorophyll standard to cup to cover sensors (with datasonde sensor side up). Cup will be almost full.
-
-   5. Software &rarr; Manta2 &rarr; Calibrate &rarr; chlorophyll *a* (&mu;g/L).
-
-   6. Slope calibration &rarr; input 400, enter.
-
-   7. Wait until graph stabilizes, press enter, accept (Yes).
-
-   8. Sensor response factor should be as close to 100 as possible.
-
-   9. Rinse sensor well two times using DI water.
-
-   10. Calibrate 0 using DI water.
-
-   11. Add enough DI water to cup to cover sensors (with datasonde sensor side up). Cup will be almost full.
-
-   12. Software &rarr; Manta2 &rarr; Calibrate &rarr; chlorophyll *a* &rarr; input 0 &rarr; enter.
-
-   13. Wait until graph stabilizes, press enter, accept (Yes).
-
-   14. Sensor response factor should be as close to 100 as possible.
-
-
+6. Chlorophyll *a* uses a C fluor sensor that is factory calibrated and does not require monthly calibration.  (Rhodamine can be used as a quality control check)
+ 
+  
 7. Chlorophyll *a* calibration (with calcube)
 
    1. Make sure chlorophyll sensor is clean and dry.
@@ -192,33 +164,7 @@ Updated: October, 2022
    7. We adjusted the screw clockwise until it recorded 40.1. As long as CalCube is not adjusted, this reading will equal 40 &mu;g/L in the future.
 
 
-8. CDOM/*f*DOM Calibration (with quinine sulfate standard or Turner PTSA standard)
-
-   1. CDOM calibration is a two point calibration, we use 300 &mu;g/L (0.3 ppm) and 0 (or 400ppb Turner standard and 0).
-
-   2. Do not need to rinse if last calibration was done with DI water.
-
-   3. Add small amount of quinine sulfate standard to cup and rinse, repeat rinse (2 rinses).
-
-   4. Add enough quinine sulfate to cup to cover sensors (with datasonde sensor side up). Cup will be almost full.
-
-   5. Software &rarr; Manta2 &rarr; Calibrate &rarr; CDOM (&mu;g/L).
-
-   6. Slope calibration &rarr; input 300, enter.
-
-   7. Wait until graph stabilizes, press enter, accept (Yes).
-
-   8. Rinse sensor well two times using DI water.
-
-   9. Calibrate 0 using DI water.
-
-   10. Add enough DI water to cup to cover sensors (with datasonde sensor side up). Cup will be almost full.
-
-   11. Software &rarr; Manta2 &rarr; Calibrate &rarr; COM &rarr; input 0 &rarr; enter.
-
-   12. Wait until graph stabilizes, press enter, accept (Yes).
-
-* To make more of the 0.3 ppm quinine standard, add **15 mL** of the 10 ppm stock standard to a 500 mL volumetric flask and bring it to volume with 0.05 M H2SO4, which is in a labeled 1L flask in the refrigerator.
+8. CDOM/*f*DOM uses a C fluor sensor that is factory calibrated and does not require monthly calibration.  (PTSA can be used as a quality control check)
 
 
 9. CDOM/*f*DOM Calibration (with CalCube)

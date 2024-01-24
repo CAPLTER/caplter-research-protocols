@@ -82,7 +82,7 @@ Updated August 2020
     * 40 ml tube TN/TP (Total Nitrogen and Total Phosphorous)
     * 125ml Nalgene bottle AFDM (Acid Free Dry Mass) 
 * Centrifuge 15ml tube (Ammonium) @ 8000rpm for 10 minutes
-* When finished place in freezer and notify Marisa as to sample location
+* When finished place in freezer and notify Yi as to sample location
 
 ## **TDS/TSS/TVS and DOC Combined Sample Processing Protocol**
 

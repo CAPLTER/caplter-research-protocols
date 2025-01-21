@@ -35,7 +35,7 @@ After subsampling for moisture content, empty soil in small aluminum tray in lab
 
 Calculate total soil dry weight (g) = wt. of soil >2mm + wt. of soil <2mm.
 
-Calculate bulk density (g/cm<sup>3</sup>) = total soil weight calculated above divided by volume of soil in 2 inch core (v = 3.14 x core radius squared x height of soil in core).
+Calculate bulk density (g/cm<sup>3</sup>) = total soil weight calculated above divided by volume of soil in 2 inch core (v = 3.14 x core radius squared x height of soil in core). The diamter of the 2 inch core is slightly less than 2 inches, so the correct value to use for the radius is 4.8 cm.
 
 ## **Processing 1 inch Core Samples (for chemical analyses):**
 

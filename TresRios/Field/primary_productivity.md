@@ -174,14 +174,18 @@ N/A
 
 **A. Sample field data book scan**
 
-![Sample field data book page](../images/data_book_example.jpg)
+<figure>
+  <figcaption><strong>Figure A.</strong> Sample field data book page.</figcaption>
+  <img src="../images/data_book_example.jpg" alt="Sample field data book page" width="600" />
+</figure>
 
 **B. Transect locations**
 
 <figure>
-  <figcaption><strong>Figure B1.</strong> Left: field setup at transect entrance. Right: schematic layout of transects.</figcaption>
-  <img src="../images/tres_rios_setup.png" alt="Field setup at transect entrance" width="120" />
-  <img src="../images/tres_rios_layout.png" alt="Schematic layout of Tres Rios transects" width="120" />
+  <figcaption><strong>Figure B1.</strong> Field setup at transect entrance.</figcaption>
+  <img src="../images/tres_rios_setup.png" alt="Field setup at transect entrance" width="480" />
+  <figcaption><strong>Figure B1.</strong> Schematic layout of transects.</figcaption>
+  <img src="../images/tres_rios_layout.png" alt="Schematic layout of Tres Rios transects" width="480" />
 </figure>
 
 

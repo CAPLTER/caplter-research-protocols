@@ -1,6 +1,3 @@
-<img src="media/image1.jpeg" style="width:1.14028in;height:0.95in"
-alt="Macintosh HD:Users:chrissanchez:Google Drive:WEEL:Website:WEELWebsite:Logos:weel logo bird fixed.jpg" /><img src="media/image2.png" style="width:2.74722in;height:0.73611in" />
-
 **Wetlands Ecosystem Ecology Lab (WEEL)**
 
 **Standard Operating Procedure**

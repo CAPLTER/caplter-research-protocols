@@ -1,6 +1,3 @@
-<img src="media/image1.jpeg" style="width:1.14028in;height:0.95in"
-alt="Macintosh HD:Users:chrissanchez:Google Drive:WEEL:Website:WEELWebsite:Logos:weel logo bird fixed.jpg" /><img src="media/image2.png" style="width:2.74722in;height:0.73611in" />
-
 **Wetlands Ecosystem Ecology Lab (WEEL)**
 
 **Standard Operating Procedure**
@@ -184,10 +181,10 @@ N/A
 <figure>
     <figcaption><strong>Figure B1.</strong> Left: field setup at transect entrance. Right: schematic layout of transects.</figcaption>
     <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:8px;">
-        <div style="flex:1 1 320px; max-width:480px;">
+        <div style="flex:1 1 320px; max-width:120px;">
             <img src="../images/tres_rios_setup.png" alt="Field setup at transect entrance" style="width:100%; height:auto;" />
         </div>
-        <div style="flex:1 1 320px; max-width:480px;">
+        <div style="flex:1 1 320px; max-width:120px;">
             <img src="../images/tres_rios_layout.png" alt="Schematic layout of Tres Rios transects" style="width:100%; height:auto;" />
         </div>
     </div>

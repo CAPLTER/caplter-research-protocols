@@ -179,15 +179,9 @@ N/A
 **B. Transect locations**
 
 <figure>
-    <figcaption><strong>Figure B1.</strong> Left: field setup at transect entrance. Right: schematic layout of transects.</figcaption>
-    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:8px;">
-        <div style="flex:1 1 320px; max-width:120px;">
-            <img src="../images/tres_rios_setup.png" alt="Field setup at transect entrance" style="width:100%; height:auto;" />
-        </div>
-        <div style="flex:1 1 320px; max-width:120px;">
-            <img src="../images/tres_rios_layout.png" alt="Schematic layout of Tres Rios transects" style="width:100%; height:auto;" />
-        </div>
-    </div>
+  <figcaption><strong>Figure B1.</strong> Left: field setup at transect entrance. Right: schematic layout of transects.</figcaption>
+  <img src="../images/tres_rios_setup.png" alt="Field setup at transect entrance" width="120" />
+  <img src="../images/tres_rios_layout.png" alt="Schematic layout of Tres Rios transects" width="120" />
 </figure>
 
 
